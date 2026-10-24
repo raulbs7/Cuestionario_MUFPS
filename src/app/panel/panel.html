@@ -1,0 +1,125 @@
+<div class="layout" [attr.data-subject]="asignaturaId()">
+  <aside class="sidebar">
+    <div>
+      <div class="brand-name">MUFPS</div>
+      <div class="brand-sub">Banco de preguntas</div>
+    </div>
+
+    <nav class="nav" aria-label="Asignaturas">
+      <div class="nav-label">Asignaturas</div>
+      @for (a of asignaturas; track a.id) {
+        <button
+          type="button"
+          class="nav-item"
+          [class.active]="a.id === asignaturaId()"
+          [attr.aria-current]="a.id === asignaturaId() ? 'page' : null"
+          (click)="elegirAsignatura(a.id)"
+        >
+          <span class="nav-dot" [style.background]="a.acento"></span>
+          <span>{{ a.nombre }}</span>
+        </button>
+      }
+    </nav>
+
+    <div class="sidebar-foot">
+      <a routerLink="/resultados">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M3 12a9 9 0 1 0 9-9" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M3 4v5h5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M12 8v5l3 2" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        Historial de resultados
+      </a>
+    </div>
+  </aside>
+
+  <main class="main">
+    <header>
+      <div class="eyebrow">{{ info().nombre }}</div>
+      <h1>Panel de repaso</h1>
+      <p>Preguntas de todos los temas, mezcladas para simular el examen real.</p>
+    </header>
+
+    @if (error()) {
+      <div class="error-msg" role="alert">{{ error() }}</div>
+    }
+
+    <div class="stats">
+      <div class="card stat">
+        <div class="stat-value">{{ totalBanco() }}</div>
+        <div class="stat-label">preguntas en el banco</div>
+      </div>
+      <div class="card stat">
+        <div class="stat-value">{{ totalTemas() }}</div>
+        <div class="stat-label">temas distintos</div>
+      </div>
+      <div class="card stat">
+        <div class="stat-value accent">
+          @if (ultimo(); as u) {
+            {{ porcentaje(u.aciertos, u.totalPreguntas) }}%
+          } @else {
+            —
+          }
+        </div>
+        <div class="stat-label">último resultado</div>
+      </div>
+    </div>
+
+    <div class="card cta">
+      <div class="cta-top">
+        <div class="cta-text">
+          <div class="cta-title">Examen de repaso — {{ cantidadEfectiva() }} preguntas</div>
+          <div class="cta-desc">
+            Preguntas aleatorias de {{ info().nombre }}, de todos los temas mezclados. Corrección disponible
+            pregunta a pregunta.
+          </div>
+        </div>
+        <button type="button" class="btn btn-lg" [disabled]="totalBanco() === 0" (click)="iniciar()">
+          Iniciar examen →
+        </button>
+      </div>
+
+      <div class="count-picker" role="group" aria-label="Número de preguntas">
+        <span class="count-label">Nº de preguntas</span>
+        @for (n of opcionesRapidas; track n) {
+          <button type="button" class="chip" [class.active]="cantidad() === n" (click)="fijarCantidad(n)">
+            {{ n }}
+          </button>
+        }
+        <button type="button" class="chip" [class.active]="esTodas()" (click)="elegirTodas()">Todas</button>
+        <label class="muted" for="cantidad-personalizada" style="font-size: 13px">Otro:</label>
+        <input
+          id="cantidad-personalizada"
+          class="count-input"
+          type="number"
+          min="1"
+          [value]="cantidad()"
+          (input)="fijarCantidad($any($event.target).value)"
+        />
+      </div>
+      @if (excede()) {
+        <div class="count-note" role="status">
+          El banco solo tiene {{ totalBanco() }} preguntas: el examen usará las {{ totalBanco() }} disponibles.
+        </div>
+      }
+    </div>
+
+    <section>
+      <div class="section-head">
+        <h2>Resultados recientes</h2>
+        <a routerLink="/resultados">Ver historial completo</a>
+      </div>
+      <div class="card list">
+        @for (item of recientes(); track item.fecha) {
+          <div class="row">
+            <div>
+              <div class="row-title">{{ item.fecha | date: 'd MMM y' }}</div>
+              <div class="row-sub">Examen · {{ item.totalPreguntas }} preguntas</div>
+            </div>
+            <div class="score" [class.accent]="item.aciertos / item.totalPreguntas >= 0.5" [class.wrong]="item.aciertos / item.totalPreguntas < 0.5">
+              {{ item.aciertos }}/{{ item.totalPreguntas }}
+            </div>
+          </div>
+        } @empty {
+          <div class="empty">Aún no has hecho ningún examen de {{ info().nombre }}.</div>
+        }
+      </div>
+    </section>
+  </main>
+</div>

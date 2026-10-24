@@ -1,0 +1,63 @@
+@if (examen.actual(); as q) {
+  <div class="exam-page" [attr.data-subject]="examen.asignatura()">
+    <div class="exam">
+      <div class="topbar">
+        <a routerLink="/panel" class="back-link">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M15 18l-6-6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          Volver al panel
+        </a>
+        <div class="eyebrow">{{ nombre() }}</div>
+      </div>
+
+      <div>
+        <div class="progress-meta">
+          <span>Pregunta {{ examen.indice() + 1 }} de {{ examen.total() }}</span>
+          <span>Puntuación: {{ examen.puntuacion() }} / {{ examen.total() }}</span>
+        </div>
+        <div class="bar thin" role="progressbar" [attr.aria-valuenow]="progreso()" aria-valuemin="0" aria-valuemax="100">
+          <div [style.width.%]="progreso()"></div>
+        </div>
+      </div>
+
+      <div class="card question-card">
+        <div class="tag">{{ q.tema }}</div>
+        <h2>{{ q.pregunta }}</h2>
+
+        <div class="options">
+          @for (op of q.opciones; track $index) {
+            <button
+              type="button"
+              class="option"
+              [class]="'option ' + claseOpcion($index)"
+              [disabled]="examen.respondida()"
+              (click)="examen.responder($index)"
+            >
+              <span class="option-letter">{{ letras[$index] }}</span>
+              <span style="flex: 1 1 auto">{{ op }}</span>
+            </button>
+          }
+        </div>
+
+        @if (examen.respondida()) {
+          <div class="feedback" [class.bad]="!acierto()" role="status">
+            @if (acierto()) {
+              Correcto.
+            } @else {
+              Incorrecto. La respuesta correcta es la {{ letras[q.correcta] }}.
+            }
+          </div>
+        }
+      </div>
+
+      <div class="exam-actions">
+        @if (examen.respondida()) {
+          @if (examen.esUltima()) {
+            <a routerLink="/resultados" class="btn">Ver resultados →</a>
+          } @else {
+            <button type="button" class="btn" (click)="examen.siguiente()">Siguiente pregunta →</button>
+          }
+        }
+      </div>
+    </div>
+  </div>
+}

@@ -1,0 +1,3607 @@
+[
+  {
+    "id": "ped-bat-003",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "El principio de educabilidad hace referencia a:",
+    "opciones": [
+      "La capacidad del educador para influir",
+      "La capacidad de aprender del individuo",
+      "La influencia de los factores sociales",
+      "La planificación docente"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-bat-006",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "¿Qué autor fundó la Institución Libre de Enseñanza (ILE)?",
+    "opciones": [
+      "Manuel Bartolomé Cossío",
+      "Francisco Giner de los Ríos",
+      "Claudio Moyano",
+      "Julián Sanz del Río"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-bat-007",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "La Ley Moyano (1857) establecía que la primera enseñanza fuera:",
+    "opciones": [
+      "Voluntaria",
+      "Solo para hombres",
+      "Elemental y gratuita",
+      "Reservada a las élites"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-bat-008",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "Durante el franquismo, la educación debía ser:",
+    "opciones": [
+      "Laica y gratuita",
+      "Científica y crítica",
+      "Católica y patriótica",
+      "Libre y democrática"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-bat-010",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "La LOMLOE fue aprobada en:",
+    "opciones": [
+      "2006",
+      "2013",
+      "2020",
+      "2022"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-bat-011",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "¿Qué artículo de la Declaración Universal de Derechos Humanos (1948) trata sobre la educación?",
+    "opciones": [
+      "Artículo 23",
+      "Artículo 10",
+      "Artículo 26",
+      "Artículo 1"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-bat-012",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "¿Qué artículo de la Constitución Española (1978) reconoce el derecho a la educación?",
+    "opciones": [
+      "Artículo 20",
+      "Artículo 27",
+      "Artículo 14",
+      "Artículo 15"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-bat-013",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "Según el Informe Delors, uno de los cuatro pilares de la educación es:",
+    "opciones": [
+      "Aprender a rezar",
+      "Aprender a competir",
+      "Aprender a ser",
+      "Aprender a consumir"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-bat-015",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "La educación comprensiva busca principalmente:",
+    "opciones": [
+      "Dividir al alumnado según capacidades",
+      "Garantizar la inclusión y equidad",
+      "Favorecer la educación privada",
+      "Reforzar la selectividad"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-bat-016",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "¿Qué ley educativa modifica la LOE y deroga la LOMCE?",
+    "opciones": [
+      "LOPEG",
+      "LOMLOE",
+      "LOGSE",
+      "LGE"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-bat-018",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "¿Cuántas modalidades de Bachillerato establece la LOMLOE?",
+    "opciones": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-bat-024",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Los niveles de concreción curricular son:",
+    "opciones": [
+      "Tres",
+      "Cuatro",
+      "Cinco",
+      "Dos"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-bat-029",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "¿Qué tipo de contenidos promueven la convivencia, igualdad y sostenibilidad?",
+    "opciones": [
+      "Conceptuales",
+      "Transversales",
+      "Actitudinales",
+      "Procedimentales"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-bat-031",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "En el modelo de enseñanza por descubrimiento, el profesor:",
+    "opciones": [
+      "Expone todo el contenido magistralmente",
+      "Guía el aprendizaje mediante ejemplos y preguntas",
+      "Evalúa solo con exámenes",
+      "Deja al alumnado sin orientación"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-bat-032",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "En el modelo expositivo, el rol del docente es:",
+    "opciones": [
+      "Guía",
+      "Mediador",
+      "Depositario del saber",
+      "Observador pasivo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-bat-033",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "El modelo cooperativo se caracteriza por:",
+    "opciones": [
+      "Aprendizaje individual y competitivo",
+      "Trabajo en grupo para metas comunes",
+      "Evaluación individual constante",
+      "Uso exclusivo del libro de texto"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-bat-034",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "¿Qué artículo de la LOMLOE define el currículo?",
+    "opciones": [
+      "Artículo 2",
+      "Artículo 4",
+      "Artículo 6",
+      "Artículo 8"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-bat-035",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Las competencias específicas relacionan:",
+    "opciones": [
+      "Saberes básicos y criterios de evaluación",
+      "Competencias clave y saberes básicos",
+      "Objetivos generales y metodologías",
+      "Contenidos transversales y evaluación"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-bat-036",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Según Torrego (2008), la meta del profesorado en educación secundaria es:",
+    "opciones": [
+      "Instruir en técnicas y contenidos",
+      "Formar ciudadanos críticos y transformadores",
+      "Transmitir conocimientos académicos",
+      "Preparar para la universidad"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-bat-037",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "La labor docente se desarrolla en un contexto:",
+    "opciones": [
+      "Autoritario",
+      "Anárquico",
+      "Democrático",
+      "Individualista"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-bat-038",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Uno de los valores esenciales del profesorado es:",
+    "opciones": [
+      "Competitividad",
+      "Éxito para unos pocos",
+      "Equidad y éxito para todos",
+      "Eficiencia técnica"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-bat-040",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "¿Cuál NO pertenece a los siete aprendizajes básicos del profesorado?",
+    "opciones": [
+      "Comprensión pedagógica",
+      "Conocimiento de contenidos",
+      "Gestión empresarial",
+      "Comprensión de emociones"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-bat-041",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "En la sociedad del conocimiento, el profesorado debe ser principalmente:",
+    "opciones": [
+      "Transmisor autorizado",
+      "Facilitador y guía del aprendizaje",
+      "Supervisor del aula",
+      "Evaluador de tareas"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-bat-042",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Como facilitador del aprendizaje, el profesor debe ser capaz de:",
+    "opciones": [
+      "Repetir contenidos",
+      "Motivar y guiar en la búsqueda de soluciones",
+      "Controlar al grupo",
+      "Dictar apuntes"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-bat-043",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "¿Qué papel adopta el docente como gestor de la convivencia?",
+    "opciones": [
+      "Juez disciplinario",
+      "Observador pasivo",
+      "Mediador y orientador",
+      "Sancionador"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-bat-045",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Según el documento, la Sociedad del Conocimiento exige del profesorado:",
+    "opciones": [
+      "Dominio exclusivo de su materia",
+      "Innovación, adaptación y aprendizaje continuo",
+      "Repetición de métodos tradicionales",
+      "Neutralidad y desinterés en el contexto social"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-bat-046",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "Un centro de Educación Secundaria es:",
+    "opciones": [
+      "Un espacio homogéneo con objetivos únicos",
+      "Un espacio complejo con un grupo humano diverso",
+      "Una estructura administrativa sin autonomía",
+      "Un lugar exclusivamente de aprendizaje formal"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-bat-048",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "El contexto externo de un centro está formado por:",
+    "opciones": [
+      "Profesorado y alumnado",
+      "Comunidad social, familias y política educativa",
+      "Estructura interna y organización docente",
+      "Claustro y Consejo Escolar"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-bat-049",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "¿Qué ley regula la participación y el gobierno de los centros?",
+    "opciones": [
+      "LODE",
+      "LOMCE",
+      "LOMLOE (Título V)",
+      "LOGSE"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-bat-051",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "Según la Orden 118/2022, ¿qué norma regula el funcionamiento de los centros públicos de ESO y Bachillerato en Castilla-La Mancha?",
+    "opciones": [
+      "LOMLOE",
+      "Decreto 93/2022",
+      "Orden 118/2022",
+      "Decreto 92/2022"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-bat-055",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "Los órganos de coordinación docente incluyen:",
+    "opciones": [
+      "Claustro, CCP y tutoría",
+      "Tutoría, equipo docente y departamentos didácticos",
+      "Consejo escolar, jefatura y AMPA",
+      "CCP, AMPA y asociaciones de alumnos"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-bat-059",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "Una de las funciones del tutor con las familias es:",
+    "opciones": [
+      "Comunicar resultados al final del curso",
+      "Establecer relación fluida, directa y continuada",
+      "Controlar la asistencia de los alumnos",
+      "Supervisar las programaciones didácticas"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-bat-060",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "La Comisión de Coordinación Pedagógica (CCP) está presidida por:",
+    "opciones": [
+      "El orientador",
+      "El jefe de estudios",
+      "El director",
+      "El coordinador de formación"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-bat-065",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "¿Qué principio constitucional respalda la calidad educativa en España?",
+    "opciones": [
+      "Artículo 14",
+      "Artículo 27.2",
+      "Artículo 20",
+      "Artículo 10"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-bat-066",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "La calidad educativa según la LOMLOE debe sustentarse en:",
+    "opciones": [
+      "La eficiencia económica",
+      "La competencia entre centros",
+      "La equidad y la justicia social",
+      "La reducción del currículo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-bat-067",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Uno de los rasgos de un sistema educativo de calidad es:",
+    "opciones": [
+      "Accesibilidad limitada",
+      "Exclusión de alumnos con dificultades",
+      "Participación activa de las familias y comunidad",
+      "Ausencia de innovación pedagógica"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-bat-068",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "¿Qué aspecto resalta la LOMLOE como reto de una sociedad democrática?",
+    "opciones": [
+      "Reforzar la competitividad",
+      "Crear condiciones para que todos los alumnos desarrollen sus talentos",
+      "Centrar la educación en resultados",
+      "Fomentar la enseñanza privada"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-bat-069",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Según Giné (2002), un sistema de calidad debe promover:",
+    "opciones": [
+      "Cambios e innovación educativa",
+      "Selección del alumnado",
+      "Educación individualizada solo para los mejores",
+      "Homogeneidad y rigidez curricular"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-001",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "La etimología latina educere hace referencia a:",
+    "opciones": [
+      "Extraer, sacar de dentro hacia fuera las potencialidades del sujeto.",
+      "Alimentar, criar, proporcionar lo necesario desde fuera.",
+      "La nutrición de la comunidad y su tradición."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-002",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "En la tradición griega, el término paideia resalta sobre todo:",
+    "opciones": [
+      "La dimensión estrictamente individual del aprendizaje.",
+      "La adquisición de destrezas técnicas y profesionales.",
+      "La dimensión comunitaria y la formación cívica y moral del ciudadano."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-003",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "El principio de educatividad se refiere a:",
+    "opciones": [
+      "La capacidad de adquirir nuevas conductas y aprendizajes a lo largo de la vida.",
+      "La capacidad que posee todo individuo, institución, espacio o recurso de influir educativamente en otros.",
+      "La obligación del Estado de garantizar la escolarización."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-004",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "¿Qué postura en torno a la educabilidad cree en las posibilidades educativas del sujeto a pesar de sus limitaciones?",
+    "opciones": [
+      "El optimismo pedagógico.",
+      "El realismo pedagógico.",
+      "El pesimismo pedagógico."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-005",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "Según Esteve (2010), no es educativo enseñar un contenido sin respetar la libertad de quien aprende. ¿A qué criterio corresponde?",
+    "opciones": [
+      "Criterio de forma.",
+      "Criterio de contenido.",
+      "Criterio de equilibrio."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-006",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "El criterio de uso exige, para calificar un aprendizaje de educativo, que el alumnado:",
+    "opciones": [
+      "Aprenda contenidos moralmente irreprochables.",
+      "Consiga una personalidad integrada y equilibrada.",
+      "Desarrolle algún tipo de esquema conceptual propio sobre lo aprendido."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-007",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "El adoctrinamiento y el condicionamiento son ejemplos de procesos de:",
+    "opciones": [
+      "Instrucción.",
+      "Formación.",
+      "Manipulación."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-008",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "En el adiestramiento, que forma parte de los procesos de instrucción:",
+    "opciones": [
+      "Se aprende una destreza, no un dato.",
+      "Se desarrollan esquemas conceptuales que se aplican a situaciones nuevas.",
+      "Se manipula al alumnado mediante refuerzos."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-009",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "La educación va un paso más allá de la formación porque añade:",
+    "opciones": [
+      "La coordinación automática de pensamiento y acción.",
+      "El criterio moral y el criterio de equilibrio.",
+      "La memorización de contenidos curriculares."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-010",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "Dentro de las condiciones del aprendizaje, \"querer aprender\" se relaciona con:",
+    "opciones": [
+      "La motivación.",
+      "Las capacidades cognitivas y los conocimientos previos.",
+      "La experiencia, los hábitos y las técnicas de estudio."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-011",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "La educación que es altamente institucionalizada, cronológicamente graduada y jerárquicamente estructurada es la educación:",
+    "opciones": [
+      "No formal.",
+      "Formal.",
+      "Informal."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-012",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "La primera ley general del sistema educativo español, elaborada a partir del Informe Quintana (1813), fue:",
+    "opciones": [
+      "La Ley Moyano.",
+      "El Reglamento General de Instrucción Pública de 1821.",
+      "El Plan Calomarde."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-013",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "La Ley Moyano (1857) estuvo vigente más de cien años, hasta:",
+    "opciones": [
+      "La Constitución de 1931.",
+      "La LOGSE de 1990.",
+      "La Ley General de Educación de 1970."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-014",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "Con la Ley Moyano, la primera enseñanza elemental se estableció como obligatoria y gratuita (para quienes no pudieran pagarla) en la franja de edad de:",
+    "opciones": [
+      "6 a 9 años.",
+      "6 a 14 años.",
+      "9 a 12 años."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-015",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "¿Cuál de estos era un principio de la Institución Libre de Enseñanza (ILE)?",
+    "opciones": [
+      "La educación católica y patriótica.",
+      "La agrupación del alumnado por edad y el uso de libros de texto.",
+      "La coeducación y la supresión de exámenes."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-016",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "Con la Ley General de Educación (1970), la Educación General Básica (EGB) se amplió hasta los:",
+    "opciones": [
+      "14 años.",
+      "12 años.",
+      "16 años."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-017",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "La LODE (1985) concretó, entre otros aspectos:",
+    "opciones": [
+      "La creación de itinerarios y una reválida al final de la ESO.",
+      "La ampliación de la escolarización obligatoria hasta los 16 años.",
+      "La financiación de los centros privados mediante conciertos y la participación a través de los consejos escolares."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-018",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "Una de las reformas más importantes de la LOGSE (1990) fue:",
+    "opciones": [
+      "La introducción de las competencias clave.",
+      "La ampliación de la escolarización obligatoria y gratuita hasta los 16 años.",
+      "La creación del Programa de Mejora del Aprendizaje y del Rendimiento (PMAR)."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-019",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "La LOMCE (2013) sustituyó los Programas de Diversificación Curricular por el PMAR. ¿Qué hizo después la LOMLOE (2020)?",
+    "opciones": [
+      "Abandonar el PMAR y volver a la diversificación curricular de la LOE.",
+      "Mantener el PMAR y añadir una reválida.",
+      "Sustituir el PMAR por los Programas de Garantía Social."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-020",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "Según Tomasevski, el rasgo del derecho a la educación que exige que la enseñanza sea gratuita y esté financiada por el Estado, con infraestructura y docentes formados, es la:",
+    "opciones": [
+      "Aceptabilidad.",
+      "Adaptabilidad.",
+      "Asequibilidad."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-021",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Según el artículo 6 de la LOMLOE, el currículo es:",
+    "opciones": [
+      "El conjunto de materias, horarios y calendario escolar de cada etapa.",
+      "El conjunto de programaciones de aula elaboradas por el profesorado.",
+      "El conjunto de objetivos, competencias, contenidos, métodos pedagógicos y criterios de evaluación de cada enseñanza."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-022",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "La Educación Secundaria Obligatoria comprende:",
+    "opciones": [
+      "Cuatro cursos, que se seguirán ordinariamente entre los 12 y los 16 años.",
+      "Tres cursos, que se seguirán ordinariamente entre los 12 y los 15 años.",
+      "Cuatro cursos, que se seguirán ordinariamente entre los 14 y los 18 años."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-023",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Con la LOMLOE, el 4º curso de la ESO tiene un carácter:",
+    "opciones": [
+      "Orientador, tanto para los estudios postobligatorios como para la incorporación a la vida laboral.",
+      "Selectivo, con una reválida al finalizar.",
+      "Exclusivamente preparatorio para el Bachillerato."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-024",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Los Programas de diversificación curricular se implantan de nuevo en:",
+    "opciones": [
+      "1º y 2º de la ESO.",
+      "3º y 4º de la ESO.",
+      "2º y 3º de la ESO."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-025",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Todos los centros realizarán una evaluación de diagnóstico de las competencias adquiridas por el alumnado de:",
+    "opciones": [
+      "4º de la ESO.",
+      "1º de Bachillerato.",
+      "2º de la ESO."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-026",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Las modalidades del Bachillerato con la LOMLOE son:",
+    "opciones": [
+      "Ciencias; Humanidades y Ciencias Sociales; y Artes.",
+      "Ciencias y Tecnología; Humanidades y Ciencias Sociales; Artes; y General.",
+      "Científica, Tecnológica y Humanística."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-027",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Para acceder a un ciclo formativo de grado básico es necesario:",
+    "opciones": [
+      "Tener 16 años y haber cursado 4º de la ESO.",
+      "Tener 15 años (o cumplirlos en el año natural en curso) y haber cursado 3º de la ESO o, excepcionalmente, 2º.",
+      "Tener 14 años y haber cursado 1º de la ESO."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-030",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "El primer nivel de concreción curricular, marco general, prescriptivo y vinculante, corresponde a:",
+    "opciones": [
+      "La Administración educativa (Estado y comunidades autónomas).",
+      "Los centros educativos.",
+      "El aula."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-031",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "El Proyecto Educativo, las NCOF y las Programaciones Didácticas pertenecen al:",
+    "opciones": [
+      "Primer nivel de concreción curricular.",
+      "Tercer nivel de concreción curricular.",
+      "Segundo nivel de concreción curricular."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-032",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "El cuarto nivel de concreción curricular hace referencia a:",
+    "opciones": [
+      "Las programaciones de aula.",
+      "La individualización de la intervención educativa mediante planes de trabajo (PT).",
+      "El Proyecto Educativo del centro."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-033",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "El Perfil de salida del alumnado al término de la enseñanza básica:",
+    "opciones": [
+      "Recoge la lista de materias optativas que el alumnado puede cursar en Bachillerato.",
+      "Fija las competencias clave que el alumnado debe haber adquirido al finalizar la enseñanza básica y es el referente último del desempeño competencial.",
+      "Es el documento del centro que establece las normas de convivencia."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-034",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Las competencias específicas se formulan con la estructura sintáctica:",
+    "opciones": [
+      "Qué (sustantivo) + cuándo (fecha) + quién (agente).",
+      "Expresión nominal agrupada por bloques.",
+      "Qué (infinitivo) + cómo (gerundio, a través de…) + para qué (para + infinitivo)."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-035",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "¿Cómo se formulan los saberes básicos?",
+    "opciones": [
+      "Con una expresión nominal, agrupados por bloques.",
+      "Con el esquema qué (infinitivo + complemento) + cómo.",
+      "Como objetivos operativos que expresan la conducta terminal del alumnado."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-036",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "¿Cuántas competencias clave recoge la LOMLOE?",
+    "opciones": [
+      "Ocho.",
+      "Seis.",
+      "Diez."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-037",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Los descriptores operativos son:",
+    "opciones": [
+      "Actividades de ampliación para el alumnado más aventajado.",
+      "Especificaciones de las competencias clave que orientan sobre el nivel de desempeño esperado al completar una etapa.",
+      "Los criterios de calificación numérica de cada materia."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-038",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "El modelo de aprendizaje significativo, que relaciona los conocimientos nuevos con los conocimientos relevantes que el alumnado ya posee, se asocia a:",
+    "opciones": [
+      "Bruner.",
+      "Freinet.",
+      "Ausubel."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-039",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Según el Decreto 82/2022, la evaluación del aprendizaje del alumnado en la ESO será:",
+    "opciones": [
+      "Continua y diferenciada según las distintas materias.",
+      "Continua, formativa e integradora.",
+      "Final, sumativa y selectiva."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-040",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Las rúbricas, el portafolio, el registro de observación y las listas de control son ejemplos de:",
+    "opciones": [
+      "Instrumentos de evaluación.",
+      "Procedimientos de evaluación.",
+      "Actividades de evaluación."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-041",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Según Fernández Enguita (2000), la principal característica de un «profesional democrático» es:",
+    "opciones": [
+      "Actuar como un profesional liberal, con independencia del resto de la comunidad educativa.",
+      "El compromiso con la educación como servicio público: para el público (igualitario) y con el público (participativo).",
+      "Aplicar la normativa de forma burocrática, sin necesidad de un componente colaborativo."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-042",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Stoll y Fink (2004) plantean, para educar al alumnado en el siglo XXI:",
+    "opciones": [
+      "Cuatro pilares de la educación.",
+      "Cinco competencias digitales docentes.",
+      "Siete aprendizajes básicos del profesorado."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-043",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Dentro de los aprendizajes básicos del profesorado de Stoll y Fink, el «metaaprendizaje» supone:",
+    "opciones": [
+      "Ponerse al día y actualizarse en los contenidos específicos de la disciplina.",
+      "Reconocer que el aprendizaje es una tarea emocional.",
+      "Convertir en una rutina mental la reflexión sobre el propio aprendizaje."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-044",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Los principales ámbitos de actuación del profesorado de Secundaria son:",
+    "opciones": [
+      "Facilitador del aprendizaje, orientador y gestor de la convivencia, y miembro de una organización.",
+      "Transmisor de conocimientos, calificador del rendimiento y examinador.",
+      "Tutor, director del centro e inspector educativo."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-045",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "El nuevo escenario profesional del profesorado como facilitador del aprendizaje implica:",
+    "opciones": [
+      "Reforzar su papel de transmisor autorizado de conocimientos.",
+      "Superar el modelo de transmisor de conocimientos y calificador del rendimiento para convertirse en tutor y guía del aprendizaje.",
+      "Delegar en el alumnado la planificación y la evaluación de la enseñanza."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-046",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "¿Qué principio de la evaluación cumple una función reguladora, tanto del proceso de enseñanza del profesorado como del aprendizaje del alumnado?",
+    "opciones": [
+      "Formativa.",
+      "Sumativa.",
+      "Sistemática."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-047",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Que la evaluación sea procesual significa que:",
+    "opciones": [
+      "Se centra en los resultados de la programación una vez concluida.",
+      "Tiene un carácter continuo: evaluación inicial o diagnóstica, en desarrollo y final.",
+      "Incluye entre los aspectos a evaluar todo tipo de contenidos: teóricos, prácticos y valorativos."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-048",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "¿En qué modelo de afrontamiento de la disciplina el profesorado percibe la indisciplina como una agresión personal y busca el control y el orden?",
+    "opciones": [
+      "Asertivo/democrático.",
+      "Pasivo/permisivo.",
+      "Agresivo/dominante."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-049",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "En el modelo pasivo/permisivo, el profesorado:",
+    "opciones": [
+      "Por economía de esfuerzo o impotencia, se mantiene al margen ante el comportamiento disruptivo y busca ganarse la amistad del alumnado.",
+      "Afronta la indisciplina con decisión y temple, aplicando las normas acordadas.",
+      "Impone las normas con la idea de «esto se hace porque yo lo digo»."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-050",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "La meta del modelo asertivo/democrático de afrontamiento de la disciplina es:",
+    "opciones": [
+      "Capacitar al alumnado en la resolución de los conflictos, favoreciendo la justicia y el respeto a la dignidad de todas las personas.",
+      "Mantener el control y el orden a cualquier precio.",
+      "Ganarse la amistad del alumnado evitando cualquier conflicto."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-051",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Según Torrego y Fernández (2006), el alumnado consideraba que sus «mejores profesores/as» eran:",
+    "opciones": [
+      "Muy estrictos y con un uso frecuente de amonestaciones escritas.",
+      "Quienes evitaban intervenir en los problemas del grupo.",
+      "Líderes fuertes, amigables y comprensivos, que apenas usaban amonestaciones escritas y daban más responsabilidad y libertad."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-052",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "En relación con la resolución pacífica de conflictos, hay que saber que:",
+    "opciones": [
+      "El conflicto es siempre negativo y hay que evitarlo.",
+      "El conflicto es algo natural e inevitable, y no hay que evitar los problemas sino afrontarlos positivamente.",
+      "La resolución de conflictos es responsabilidad exclusiva de la Jefatura de Estudios."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-053",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "En Castilla-La Mancha, la tutoría en la ESO está regulada en:",
+    "opciones": [
+      "El artículo 14 del Decreto 82/2022.",
+      "El artículo 20 del Decreto 82/2022.",
+      "El artículo 6 de la LOMLOE."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-054",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "La persona responsable de la tutoría de un grupo:",
+    "opciones": [
+      "Imparte todas las materias del grupo.",
+      "Decide en solitario la promoción del alumnado.",
+      "Coordina la intervención educativa del equipo docente y mantiene una relación permanente con la familia."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-055",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Según Imbernón (2010), los procesos comunicativos en el aula son:",
+    "opciones": [
+      "Neutrales, espontáneos e individuales.",
+      "Intencionales, una práctica humana comprometida y una práctica social.",
+      "Unidireccionales, del profesorado hacia el alumnado."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-056",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "El efecto Pigmalión, la escucha activa y conocer personalmente al alumnado forman parte de las estrategias de:",
+    "opciones": [
+      "Comunicación didáctica.",
+      "Clima positivo.",
+      "Evaluación del aprendizaje."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-057",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Según Hargreaves (1998), las culturas de colaboración entre el profesorado tienden a ser:",
+    "opciones": [
+      "Espontáneas, voluntarias y orientadas al desarrollo profesional.",
+      "Impuestas por la Administración y reguladas por normativa.",
+      "Puntuales, obligatorias y orientadas a la evaluación externa."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-058",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Bisquerra (2009) define la emoción como:",
+    "opciones": [
+      "Un rasgo estable de la personalidad que no se modifica con la experiencia.",
+      "El conjunto de habilidades sociales que permiten relacionarse con los demás.",
+      "Un estado complejo del organismo, caracterizado por una excitación o perturbación que predispone a una respuesta organizada."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-059",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "La técnica asertiva del «disco rayado» consiste en:",
+    "opciones": [
+      "Decir «no» de manera educada y firme varias veces ante una petición, sin justificarse ni poner excusas.",
+      "Reconocer primero a la otra persona y después plantear nuestros derechos e intereses.",
+      "Salirse del contenido y reflejar a la otra persona cómo se está comportando."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-060",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Son estrategias para la reflexión-acción en el desarrollo profesional docente:",
+    "opciones": [
+      "Los exámenes estandarizados y los rankings de centros.",
+      "Las amonestaciones escritas y los partes de incidencias.",
+      "El portfolio, el estudio de caso, los diarios de aprendizaje y la supervisión de colegas."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-061",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "El equipo directivo de un centro público está integrado por:",
+    "opciones": [
+      "El director/a, el Claustro y el Consejo escolar.",
+      "El director/a y los jefes/as de departamento.",
+      "El director/a, la jefatura de estudios y el secretario/a."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-062",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "¿Cuáles de los siguientes son órganos colegiados de gobierno del centro?",
+    "opciones": [
+      "El Consejo escolar y el Claustro del profesorado.",
+      "La Junta de delegados/as y las asociaciones de madres y padres.",
+      "Los departamentos didácticos y la Comisión de coordinación pedagógica."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-064",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "Las competencias del director o directora se recogen en:",
+    "opciones": [
+      "El artículo 127 de la LOMLOE.",
+      "El artículo 132 de la LOMLOE.",
+      "El artículo 129 de la LOMLOE."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-065",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "El Consejo escolar, como órgano de representación de la comunidad educativa, fue creado por:",
+    "opciones": [
+      "La Ley General de Educación (1970).",
+      "La LOGSE (1990).",
+      "La LODE (1985)."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-066",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "¿Qué competencia de gran calado perdió el Consejo escolar con la LOCE (2002)?",
+    "opciones": [
+      "La elección del director o directora.",
+      "La aprobación de las normas de convivencia.",
+      "La representación de la comunidad educativa."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-067",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "En el Consejo escolar, el secretario/a del centro:",
+    "opciones": [
+      "Preside el Consejo.",
+      "Actúa con voz y con voto.",
+      "Actúa con voz, pero sin voto."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-068",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "En el Consejo escolar, el profesorado elegido por el Claustro no podrá ser menos de:",
+    "opciones": [
+      "Un tercio del número total de componentes.",
+      "La mitad del número total de componentes.",
+      "Dos tercios del número total de componentes."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-069",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "El Claustro del profesorado es:",
+    "opciones": [
+      "El órgano de representación de toda la comunidad educativa.",
+      "El órgano de participación del profesorado en el gobierno del centro, responsable de decidir sobre los aspectos curriculares y educativos.",
+      "El órgano ejecutivo de gobierno del centro."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-070",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "El alumnado de los dos primeros niveles que forma parte del Consejo escolar:",
+    "opciones": [
+      "No puede votar en ningún asunto.",
+      "No puede formar parte del Consejo escolar.",
+      "No puede participar en la selección o el cese del director/a."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-071",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "El tutor o tutora de cada grupo es nombrado por:",
+    "opciones": [
+      "El Consejo escolar.",
+      "El director/a, a propuesta de la Jefatura de Estudios.",
+      "El Claustro, mediante votación."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-072",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "En relación con las familias, el tutor/a debe garantizar que:",
+    "opciones": [
+      "Cada familia sea convocada al menos a una entrevista individual durante el curso escolar.",
+      "Solo se convoque a las familias del alumnado con materias suspensas.",
+      "Las entrevistas se realicen únicamente a petición de la familia."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-073",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "El equipo docente está constituido por:",
+    "opciones": [
+      "El conjunto del profesorado que imparte docencia a un grupo, coordinado por la persona que ejerce la tutoría.",
+      "Todos los jefes/as de departamento, coordinados por la Jefatura de Estudios.",
+      "Todo el profesorado del centro, presidido por el director/a."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-074",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "Los jefes/as de los departamentos didácticos son designados por:",
+    "opciones": [
+      "La Jefatura de Estudios.",
+      "El Claustro del profesorado.",
+      "El director/a del centro, pudiendo renovarse en cada curso escolar."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-075",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "Para la jefatura del departamento de orientación tendrá prioridad el profesorado de la especialidad de:",
+    "opciones": [
+      "Pedagogía Terapéutica.",
+      "Orientación educativa.",
+      "Audición y Lenguaje."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-076",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "La Comisión de coordinación pedagógica es el órgano responsable de:",
+    "opciones": [
+      "Aprobar el presupuesto anual del centro.",
+      "Representar al alumnado ante el equipo directivo.",
+      "Velar por la coherencia pedagógica entre cursos y etapas del centro, y entre este y otros centros."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-077",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "¿Qué responsable de funciones específicas se encarga de los proyectos de formación del centro, del uso de las TIC y de la comunicación con el Centro Regional de Formación del Profesorado?",
+    "opciones": [
+      "El coordinador/a de formación.",
+      "El responsable de biblioteca.",
+      "El coordinador/a de prevención."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-078",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "La elaboración del Proyecto educativo la coordina, y es responsable de su redacción:",
+    "opciones": [
+      "El Consejo escolar.",
+      "El Equipo directivo.",
+      "El departamento de orientación."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-079",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "Las Normas de convivencia, organización y funcionamiento (NCOF) son aprobadas por:",
+    "opciones": [
+      "El Claustro, por mayoría simple.",
+      "El director/a, sin necesidad de consulta.",
+      "El Consejo escolar, por mayoría de dos tercios de sus componentes con derecho a voto."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-080",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "Las programaciones didácticas:",
+    "opciones": [
+      "Son elaboradas por los departamentos de coordinación didáctica y aprobadas por el Claustro.",
+      "Son elaboradas por el Equipo directivo y aprobadas por el Consejo escolar.",
+      "Son elaboradas por cada docente y aprobadas por la Inspección educativa."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-081",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "El Objetivo de Desarrollo Sostenible 4 (ODS 4) pretende:",
+    "opciones": [
+      "Garantizar el pleno empleo y el trabajo decente para toda la juventud.",
+      "Garantizar una educación inclusiva, equitativa y de calidad, y promover oportunidades de aprendizaje durante toda la vida para todos.",
+      "Reducir la desigualdad económica entre países."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-082",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Según la OCDE (1995), una educación de calidad es aquella que:",
+    "opciones": [
+      "Maximiza la capacidad de las escuelas para alcanzar sus resultados.",
+      "Es accesible a todos los ciudadanos y ciudadanas.",
+      "Asegura a todos los jóvenes la adquisición de los conocimientos, capacidades, destrezas y actitudes necesarias para la vida adulta."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-083",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Según Mortimore (1991), la escuela de calidad es la que:",
+    "opciones": [
+      "Promueve el progreso de su alumnado en una amplia gama de logros intelectuales, sociales, morales y emocionales, teniendo en cuenta su nivel socioeconómico, su medio familiar y su aprendizaje previo.",
+      "Obtiene los mejores resultados en las pruebas externas, con independencia del contexto.",
+      "Selecciona al alumnado con mejor rendimiento académico."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-084",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Según Giné (2002), un sistema educativo de calidad se caracteriza por su capacidad para:",
+    "opciones": [
+      "Ser accesible a todos, facilitar recursos ajustados a cada alumno/a y promover la participación activa del alumnado y de las familias.",
+      "Seleccionar al alumnado según su rendimiento desde edades tempranas.",
+      "Uniformar el currículo y los ritmos de aprendizaje de todo el alumnado."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-085",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Entre las dificultades para definir la calidad educativa se encuentra que:",
+    "opciones": [
+      "No existe ningún indicador para evaluar la educación.",
+      "La calidad solo puede medirse a través del informe PISA.",
+      "La educación es una realidad compleja, los procesos mentales de aprendizaje no son evidentes y quien educa es una persona libre."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-086",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Según el tema, ¿qué medida está llamada a mejorar la calidad educativa de manera más directa?",
+    "opciones": [
+      "El aumento de las horas lectivas.",
+      "Las evaluaciones externas de fin de etapa.",
+      "La reducción de las materias optativas."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-087",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "El concepto de alumno/a con necesidades educativas especiales (ACNEE) surge con:",
+    "opciones": [
+      "La LOGSE.",
+      "La LOE.",
+      "La Ley General de Educación."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-088",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "¿Cuál de las siguientes NO es una causa por la que se considera a un alumno/a con necesidad específica de apoyo educativo (ACNEAE)?",
+    "opciones": [
+      "Presentar altas capacidades intelectuales.",
+      "Incorporarse de forma tardía al sistema educativo español.",
+      "Estar matriculado/a en un centro concertado."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-089",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "El Decreto 85/2018, de 20 de noviembre, regula en Castilla-La Mancha:",
+    "opciones": [
+      "La evaluación en la Educación Secundaria Obligatoria.",
+      "La inclusión educativa del alumnado.",
+      "La organización de la orientación académica y profesional."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-090",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Según el artículo 2 del Decreto 85/2018, la inclusión educativa es:",
+    "opciones": [
+      "La atención exclusiva al alumnado con discapacidad en aulas específicas.",
+      "La adaptación del alumnado al currículo ordinario.",
+      "El conjunto de actuaciones y medidas dirigidas a identificar y superar las barreras para el aprendizaje y la participación de todo el alumnado, sin equiparar diferencia con inferioridad."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-092",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Los desdobles, los agrupamientos flexibles y la presencia de dos profesores en el aula son medidas de inclusión:",
+    "opciones": [
+      "De centro.",
+      "De aula.",
+      "Extraordinarias."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-093",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Los grupos interactivos, el aprendizaje cooperativo y la tutoría entre iguales son medidas de inclusión:",
+    "opciones": [
+      "De Administración.",
+      "Extraordinarias.",
+      "De aula."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-094",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Las adaptaciones curriculares de profundización y ampliación para el alumnado con altas capacidades son medidas:",
+    "opciones": [
+      "Individualizadas.",
+      "De centro.",
+      "De Administración."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-096",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "El Plan de Trabajo es:",
+    "opciones": [
+      "El documento programático que refleja la concreción de las medidas individualizadas y extraordinarias adoptadas con el alumno/a, coordinado por el tutor/a.",
+      "El documento del Consejo escolar en el que se aprueba el presupuesto del centro.",
+      "La programación anual de un departamento didáctico."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-097",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "El seguimiento del Plan de Trabajo se realiza con una periodicidad:",
+    "opciones": [
+      "Anual.",
+      "Mensual.",
+      "Trimestral."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-tst-098",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "El Diseño Universal para el Aprendizaje (DUA) parte de la idea de que:",
+    "opciones": [
+      "Hay que adaptar al alumnado para que encaje en el currículo normalizado.",
+      "Las barreras no están en el alumnado: se trata de transformar las condiciones de aprendizaje, no al aprendiz.",
+      "Hay que eliminar los desafíos del aprendizaje para el alumnado con dificultades."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-tst-099",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Según los fundamentos neurocientíficos del DUA, las redes afectivas se relacionan con:",
+    "opciones": [
+      "El «por qué» del aprendizaje: cómo nos comprometemos, motivamos e implicamos.",
+      "El «qué» del aprendizaje: cómo recabamos y categorizamos la información.",
+      "El «cómo» del aprendizaje: la planificación y ejecución de tareas."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-tst-100",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "El Principio II del DUA propone el diseño de múltiples medios de:",
+    "opciones": [
+      "Implicación (¿por qué aprender?).",
+      "Acción y expresión (¿cómo aprendemos?).",
+      "Representación (¿qué aprendemos?)."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-exa-002",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "… Y esta Primera Ley se creó en base a:",
+    "opciones": [
+      "La Ley de instrucción Publica",
+      "Constitución de 1812",
+      "Informe Quintana"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-exa-003",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "La Constitución de 1812 dedico el ______________ a la instrucción pública:",
+    "opciones": [
+      "Título IX",
+      "Articulo 27",
+      "Título XI"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-exa-004",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "Ordene cronológicamente las leyes educativas de España de las últimas cinco décadas:",
+    "opciones": [
+      "LOGE-LOMCE-Ley Moyano- LOGSE – LOE",
+      "LGE – LOGSE – LOMCE – LOE – LOCE",
+      "LGE – LOGSE – LOCE – LOE – LOMCE"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-exa-005",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Un objetivo didáctico se define como:",
+    "opciones": [
+      "Conjuntos de conocimientos que contribuyen al logro de las facetas de cada alumno y alumna.",
+      "Referentes relativos a los logros que el/la estudiante debe alcanzar al finalizar cada etapa como resultado de las experiencias de enseñanza-aprendizaje intencionalmente planificadas.",
+      "Conjunto de estrategias, procedimientos y acciones organizadas y planificadas por el profesorado, de manera consciente y reflexiva, con la finalidad de posibilitar el aprendizaje del alumnado."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-exa-007",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "La FP básica…",
+    "opciones": [
+      "De oferta optativa y carácter gratuito. Edad: a partir de 12 años sin superar 15. Se puede acceder desde 2º de ESO. Dos años de duración. Conducente a titulo ESO y a los ciclos de Grado Medio.",
+      "De oferta obligatoria. Edad: a partir de 16 años sin superar 18. Se puede acceder desde 1ºEso. Dos años de duración. No conducente a titulo de Eso. Permite acceder a los ciclos de Grado Medio.",
+      "De oferta obligatoria y carácter gratuito. Edad: a partir de 15 años sin superar"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-exa-008",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Se puede acceder desde 2ºEso. Dos años de duración. No conducente a título de Eso. Permite acceder a los ciclos de Grado Medio. 8. El Decreto 85/2018, recoge los siguientes tipos de medidas de inclusión educativa:",
+    "opciones": [
+      "Promovidas por la Consejería, promovidas a nivel de centro, promovidas a nivel de aula, ordinarias y extraordinarias.",
+      "Promovidas por la Consejería, promovidas a nivel de centro, promovidas a nivel de aula, individualizadas y extraordinarias.",
+      "Promovidas por la Consejería, promovidas a nivel de centro, promovidas a nivel de aula, no significativas y significativas."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-exa-009",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "¿Qué documento recoge los valores, objetivos y prioridades de actuación de un centro educativo?",
+    "opciones": [
+      "Programación General Anual",
+      "Proyecto Educativo",
+      "Proyecto de Gestión."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-exa-010",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "El proyecto de Comunidades de Aprendizaje se base en:",
+    "opciones": [
+      "Tertulias Pedagógicas Dialógicas y aprendizaje cooperativo.",
+      "Aprendizaje Basado en Proyecto y formación de familiares.",
+      "Aprendizaje Dialogo y participación de la comunidad."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-exa-011",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "Etimológicamente la palabra “educación” procede del latín:",
+    "opciones": [
+      "Educere: sacar o extraer y educare: formar o instruir",
+      "Eduxere: formar o instruir y educere: sacar o extraer",
+      "Educare: sacar o extraer y educere: formar o instruir",
+      "Ninguna de las anteriores es correcta."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-exa-012",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "La Evolución de las leyes educativas en nuestro país ha sido:",
+    "opciones": [
+      "Ley Instrucción Pública – LGE- ley Moyano – LOCE – LOGSE – LOE – LOMCE",
+      "LGE – Ley Moyano – Ley de Instrucción Pública – LOCE – LOGSE – LOE – LOMCE",
+      "Ley Moyano – Ley de Instrucción Pública – LGE -LOGSE -LOCE - LOE – LOMCE",
+      "LOCE – Ley Moyano – Ley de Instrucción Pública – LGE – LOGSE – LOE – LOMCE"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-exa-013",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Con la LOMCE, para poder promocionar en la ESO es necesario:",
+    "opciones": [
+      "Tener todas materias superadas o hasta tres pendientes, si no son simultáneamente Lengua, Matemáticas o Ingles. Excepcionalmente 3.",
+      "Tener todas materias superadas o hasta dos pendientes, si no son simultáneamente Lengua y Matemáticas. Excepcionalmente 3.",
+      "Tener todas materias superadas o hasta dos pendientes, si no son simultáneamente Lengua y Matemáticas. Excepcionalmente 4",
+      "Puede promocionar con 4 suspensas siempre que no sean dos de ellas Lengua y Matemáticas."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-exa-014",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Los programas de mejora del aprendizaje y el rendimiento son una medida de atención a la diversidad que se caracteriza:",
+    "opciones": [
+      "Darse en un grupo reducido de 3º y 4º ESO.",
+      "Estar dedicados a personas que ya han abandonado el sistema educativo y desean retomar los estudios de ESO.",
+      "Están destinados al alumnado que presenta dificultades de aprendizaje no atribuibles a falta de estudio o esfuerzo en 2º y 3º ESO.",
+      "Quienes terminan y no se pueden titular en la ESO."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-exa-015",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "El tercer nivel de concreción curricular corresponde con:",
+    "opciones": [
+      "Los centros educativos.",
+      "Planificación a nivel de aula.",
+      "La administración educativa.",
+      "La individualización"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-exa-016",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "Los órganos de participación en un IES son:",
+    "opciones": [
+      "Junta de delegados del alumnado y asociaciones de padres y madres.",
+      "Junta de profesores y departamento de coordinación didáctica.",
+      "La dirección, claustro de profesores y el consejo escolar.",
+      "El claustro de profesores/as y la comisión de coordinación pedagógica."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-exa-017",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "El Consejo Escolar está compuesto por:",
+    "opciones": [
+      "Director, Profesores elegidos por el Claustro (no podrán ser menos de 1/3 del número total de componentes del Consejo), Alumnos, Padres (no podrán ser menos de 1/3 del número total de componentes del Consejo), Concejal o representante del Ayuntamiento y el Secretario.",
+      "Director, Jefe de estudios, Profesores elegidos por el Claustro (no podrán ser menos de 2/3 del número total de componentes del Consejo), Alumnos, Padres (no podrán ser menos de 1/3 del número total de componentes del Consejo), Concejal o representante del Ayuntamiento, un representante del personal de administración y servicios y el Secretario.",
+      "Director, Jefe de estudios, Profesores elegidos por el Claustro (no podrán ser menos de 1/3 del número total de componentes del Consejo), Padres (no podrán ser menos de 1/3 del número total de componentes del Consejo), Concejal o representante del Ayuntamiento y el Secretario.",
+      "Director, Jefe de estudios, Profesores elegidos por el Claustro (no podrán ser menos de 1/3 del número total de componentes del Consejo), Alumnos, Padres (no podrán ser menos de 1/3 del número total de componentes del Consejo), Concejal o representante del Ayuntamiento, un representante del personal de administración y servicios y el Secretario."
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-exa-018",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "El Departamento de Orientación de un IES está compuesto por:",
+    "opciones": [
+      "Un orientador de la especialidad de psicología o pedagogía, el profesor o profesora de Pedagogía Terapéutica y el profesor o profesora de Audición y Lenguaje.",
+      "Un orientador de la especialidad de psicología o pedagogía, los profesores que imparten clase en los Programas de Mejora del Aprendizaje y del Rendimiento (PMAR), el profesor o profesora de Pedagogía Terapéutica, el profesor o profesora de Audición y Lenguaje y el Director del centro educativo.",
+      "Un orientador de la especialidad de psicología o pedagogía, los profesores que imparten clase en los Programas de Mejora del Aprendizaje y del Rendimiento (PMAR), el profesor o profesora de Pedagogía Terapéutica y el profesor o profesora de Audición y Lenguaje.",
+      "Lo forman el orientador/a y los profesores de Pedagogía Terapéutica y Audición y Lenguaje."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-exa-019",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Según el Decreto 85/2018 de inclusión en Castilla La Mancha, las medidas extraordinarias requieren:",
+    "opciones": [
+      "Evaluación psicopedagógica, conocimiento de las medidas por las familias e informe de flexibilización.",
+      "Evaluación psicopedagógica, Díctame de Escolarización e informe psicopedagógico.",
+      "Dictamen de Escolarización, Evaluación Psicopedagógica y conocimiento de las familias.",
+      "Ninguna de las tres anteriores."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-001",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "Según Villalobos Torres (2010), la educación es un proceso:",
+    "opciones": [
+      "Exclusivamente escolar, centrado en la transmisión de contenidos",
+      "Obligatorio y uniforme de selección del alumnado",
+      "Espontáneo y temporal de adaptación al entorno social",
+      "Intencional, integral y permanente de perfeccionamiento de las capacidades específicamente humanas"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-002",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "La antropología pedagógica se ocupa de la:",
+    "opciones": [
+      "Humanización",
+      "Socialización política",
+      "Escolarización",
+      "Hominización"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-003",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "Las «ciudades educadoras» son un ejemplo del principio de:",
+    "opciones": [
+      "Educatividad",
+      "Educabilidad",
+      "Comprensividad",
+      "Normalización"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-004",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "El carácter antinómico de la educación (Medina Rubio, 2001) se refleja en pares de polos como:",
+    "opciones": [
+      "Currículo oculto / currículo oficial",
+      "Enseñanza pública / enseñanza privada",
+      "Heteroeducación / autoeducación e individualización / socialización",
+      "Educación formal / educación informal"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-005",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "¿Qué postura sobre la educabilidad sostiene que todo depende de un buen diseño pedagógico?",
+    "opciones": [
+      "Realismo pedagógico",
+      "Determinismo biológico",
+      "Pesimismo pedagógico",
+      "Optimismo pedagógico"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-006",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "Para el pesimismo pedagógico:",
+    "opciones": [
+      "La educación puede superar cualquier limitación",
+      "Todo depende de un buen diseño pedagógico",
+      "Pesan más los factores endógenos de la persona que la intervención educativa",
+      "La escuela es la única influencia relevante"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-007",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "Respecto a la relación entre educación y aprendizaje es cierto que:",
+    "opciones": [
+      "El aprendizaje es la causa y la enseñanza el resultado",
+      "Siempre que hay aprendizaje hay educación",
+      "Siempre que hay educación hay aprendizaje, pero no siempre que hay aprendizaje hay educación",
+      "Educación y aprendizaje son sinónimos"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-008",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "Según el criterio de contenido de Esteve (2010), un aprendizaje es educativo cuando lo aprendido es:",
+    "opciones": [
+      "Moralmente irreprochable",
+      "Elegido libremente por el alumnado",
+      "Útil para el mercado laboral",
+      "Evaluable mediante pruebas objetivas"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-009",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "El criterio de equilibrio exige, para que un aprendizaje sea educativo, que:",
+    "opciones": [
+      "Se respete la libertad de quien aprende",
+      "Se logre una personalidad integrada, sin desarrollos unilaterales",
+      "El alumnado construya un esquema conceptual propio",
+      "Los contenidos sean moralmente irreprochables"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-010",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "El entrenamiento, como proceso de instrucción, consiste en:",
+    "opciones": [
+      "Desarrollar esquemas conceptuales propios",
+      "Condicionar al alumnado mediante refuerzos",
+      "Automatizar una conducta por imitación y repetición",
+      "Transmitir una ideología de forma parcial e intencionada"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-011",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "El adoctrinamiento se caracteriza por:",
+    "opciones": [
+      "La construcción de esquemas conceptuales propios",
+      "La parcialidad y la intencionalidad ideológica",
+      "La automatización de destrezas por repetición",
+      "El respeto a la libertad del alumnado"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-012",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "Entre los rasgos de la acción educativa, el de «influencia» implica que:",
+    "opciones": [
+      "La influencia depende de la voluntad del educando",
+      "La educación debe ser siempre neutral",
+      "La neutralidad educativa es imposible",
+      "Solo influyen los educadores formales"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-013",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "Para Marqués (2001), el acto didáctico es:",
+    "opciones": [
+      "El conjunto de intervenciones educativas que proponen y siguen actividades de enseñanza para facilitar el aprendizaje",
+      "La relación entre el centro y las familias",
+      "La evaluación final de los contenidos de una materia",
+      "La programación anual de un departamento"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-014",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "¿Cuál NO es una de las cinco dimensiones básicas de la enseñanza?",
+    "opciones": [
+      "Los mediadores: recursos y métodos",
+      "Unos contenidos enseñables",
+      "Una persona que enseña",
+      "El currículo oficial de la Administración"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-015",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "En la secuencia del aprendizaje, el orden correcto es:",
+    "opciones": [
+      "Producto, aplicación, acceso a la información y procesamiento",
+      "Aplicación, acceso a la información, procesamiento y producto",
+      "Procesamiento, acceso a la información, producto y aplicación",
+      "Acceso a la información, procesamiento, aplicación del conocimiento y producto obtenido"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-016",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "En las condiciones del aprendizaje, «poder aprender» requiere:",
+    "opciones": [
+      "Capacidades cognitivas, conocimientos previos y acceso a la información",
+      "Motivación personal y familiar",
+      "Experiencia, hábitos y técnicas de estudio",
+      "Normas de convivencia acordadas"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-018",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "La educación no formal o social se caracteriza por ser:",
+    "opciones": [
+      "Altamente institucionalizada y graduada cronológicamente",
+      "Exclusiva de la escuela",
+      "Un proceso vital sin intencionalidad ni estructura",
+      "Organizada y sistemática, pero fuera del sistema reglado"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-019",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "El sistema educativo español nace con:",
+    "opciones": [
+      "La Constitución de 1978",
+      "La Ley General de Educación de 1970",
+      "El liberalismo de 1812",
+      "La Ley Moyano de 1857"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-020",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "Según De Puelles Benítez (2011), las constituciones españolas que dan un papel relevante a la educación son:",
+    "opciones": [
+      "Las de 1837, 1845 y 1931",
+      "Las de 1812, 1931 y 1978",
+      "Las de 1812, 1869 y 1876",
+      "Solo las de 1931 y 1978"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-021",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "El Reglamento General de Instrucción Pública de 1821 se inspiró en las ideas de:",
+    "opciones": [
+      "Ausubel",
+      "Giner de los Ríos",
+      "Condorcet",
+      "Vygotski"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-022",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "La segunda enseñanza de la Ley Moyano se caracterizó por ser:",
+    "opciones": [
+      "Elitista, reservada a un grupo social restringido",
+      "Obligatoria y gratuita para todos",
+      "Coeducativa y laica",
+      "Unificada con la primera enseñanza"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-023",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "La Institución Libre de Enseñanza (1876-1939) fue fundada por:",
+    "opciones": [
+      "Catedráticos expulsados de la universidad, con Giner de los Ríos al frente",
+      "Maestros de la escuela pública republicana",
+      "Inspectores del Ministerio de Fomento",
+      "Religiosos de las órdenes docentes"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-024",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "La ILE agrupaba al alumnado:",
+    "opciones": [
+      "Por grado de desarrollo y no por edad",
+      "Por edad cronológica",
+      "Por sexo",
+      "Por rendimiento en exámenes"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-025",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "La Constitución de 1931 elevó a rango constitucional, entre otros aspectos:",
+    "opciones": [
+      "Los conciertos educativos",
+      "La obligatoriedad y gratuidad de la enseñanza y la escuela unificada",
+      "La educación católica y patriótica",
+      "La autonomía de los centros"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-027",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "En la Ley General de Educación (1970), quien obtenía el Graduado Escolar accedía a:",
+    "opciones": [
+      "El Bachillerato elemental",
+      "La FP1 y la FP2",
+      "La ESO",
+      "El BUP (3 años) y el COU"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-030",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "La LOCE (2002) introdujo itinerarios y reválida, pero:",
+    "opciones": [
+      "No llegó a aplicarse",
+      "Estuvo vigente hasta la LOMCE",
+      "Fue anulada por la LODE",
+      "Ampliaba la escolaridad hasta los 18 años"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-031",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "Entre las novedades de la LOE (2006) están:",
+    "opciones": [
+      "Los itinerarios en 4.º y el PMAR",
+      "Las competencias clave, los PDC, los PCPI y la Educación para la Ciudadanía",
+      "La reválida al final de la ESO",
+      "La recentralización del currículo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-032",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "La LOMCE (2013) se caracterizó por:",
+    "opciones": [
+      "Los itinerarios en 4.º, el PMAR y la recentralización del currículo",
+      "La eliminación de las reválidas y de la Religión",
+      "La vuelta de los Programas de Diversificación Curricular",
+      "La creación del Bachillerato General"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-033",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "La LOMLOE (2020) recuperó, entre otros aspectos:",
+    "opciones": [
+      "Los itinerarios de 4.º de ESO",
+      "Los Programas de Garantía Social",
+      "Las reválidas de la LOCE",
+      "Los PDC y los Valores Cívicos y Éticos"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-034",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "La Ley 7/2010 de Educación de Castilla-La Mancha establece entre sus finalidades:",
+    "opciones": [
+      "La selección temprana del alumnado",
+      "La enseñanza exclusivamente pública",
+      "La calidad en igualdad de condiciones y la diversidad como enriquecimiento mutuo",
+      "La supresión de la orientación académica"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-035",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "El artículo 26 de la Declaración Universal de Derechos Humanos establece que la instrucción elemental será:",
+    "opciones": [
+      "Gratuita y religiosa",
+      "Voluntaria y privada",
+      "Gratuita y obligatoria",
+      "Obligatoria hasta los 16 años"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-036",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "El artículo 27 de la Constitución Española reconoce, entre otros aspectos:",
+    "opciones": [
+      "La obligatoriedad de la formación religiosa",
+      "La libertad de enseñanza y la participación de profesorado, familias y alumnado en los centros sostenidos con fondos públicos",
+      "La enseñanza exclusivamente pública",
+      "La gratuidad de toda la enseñanza universitaria"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-039",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "Según el Informe Delors (1996), «aprender a hacer» está orientado sobre todo a:",
+    "opciones": [
+      "El desarrollo integral de la persona",
+      "La comprensión de la realidad",
+      "La convivencia democrática",
+      "La formación profesional"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-040",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "En el Informe Delors, «aprender a vivir juntos» se relaciona con:",
+    "opciones": [
+      "El artículo 27 de la Constitución",
+      "El Informe Quintana",
+      "La Agenda 2030",
+      "El artículo 26.2 de la Declaración Universal de Derechos Humanos"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-042",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "El rasgo de Tomasevski que exige contenidos relevantes, no discriminatorios y culturalmente apropiados en escuelas seguras es la:",
+    "opciones": [
+      "Aceptabilidad",
+      "Asequibilidad",
+      "Adaptabilidad",
+      "Accesibilidad"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-043",
+    "tema": "Tema 1 · Origen y evolución del sistema educativo español",
+    "pregunta": "Según Tomasevski, la educación debe evolucionar con la sociedad, combatir las desigualdades y adaptarse a cada contexto. Es el rasgo de:",
+    "opciones": [
+      "Accesibilidad",
+      "Aceptabilidad",
+      "Adaptabilidad",
+      "Asequibilidad"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-044",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "La LOMLOE es una ley de artículo único que:",
+    "opciones": [
+      "Deroga la LOE y sustituye a la LOGSE",
+      "Modifica la LOE y la LOMCE",
+      "Deroga la LOGSE y la LODE",
+      "Modifica solo la LOMCE"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-045",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "La LOMLOE fija que las enseñanzas mínimas supondrán, en las comunidades con lengua cooficial, el:",
+    "opciones": [
+      "60 % del horario",
+      "50 % del horario",
+      "65 % del horario",
+      "40 % del horario"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-046",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "En las comunidades autónomas sin lengua cooficial, las enseñanzas mínimas de la LOMLOE suponen el:",
+    "opciones": [
+      "75 % del horario",
+      "50 % del horario",
+      "60 % del horario",
+      "45 % del horario"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-047",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Con la LOMLOE desaparecen:",
+    "opciones": [
+      "Las competencias clave",
+      "Las modalidades de Bachillerato",
+      "Los estándares de aprendizaje evaluables y la clasificación de materias en troncales, específicas y de libre configuración",
+      "Los criterios de evaluación y los saberes básicos"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-048",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "La LOMLOE elimina:",
+    "opciones": [
+      "Los consejos orientadores",
+      "Las pruebas finales de Primaria, ESO y Bachillerato",
+      "La evaluación de diagnóstico",
+      "La Educación en Valores Cívicos y Éticos"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-049",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "El Real Decreto 217/2022 establece la ordenación y las enseñanzas mínimas de:",
+    "opciones": [
+      "La Educación Primaria",
+      "La Educación Secundaria Obligatoria",
+      "La Formación Profesional",
+      "El Bachillerato"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-051",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "En Castilla-La Mancha, el Decreto 83/2022 regula:",
+    "opciones": [
+      "La orientación académica y profesional",
+      "La inclusión educativa",
+      "La ordenación y el currículo de la ESO",
+      "La ordenación y el currículo del Bachillerato"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-053",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "La Orden 118/2022 de Castilla-La Mancha regula:",
+    "opciones": [
+      "La organización y el funcionamiento de los centros públicos de ESO, Bachillerato y FP",
+      "Los Programas de Diversificación Curricular",
+      "La autoridad del profesorado",
+      "La evaluación en la ESO"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-057",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Entre los enfoques de la LOMLOE, su eje vertebrador es:",
+    "opciones": [
+      "La educación comprensiva",
+      "La competitividad entre centros",
+      "La especialización temprana",
+      "La educación en valores religiosos"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-058",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "En la ESO de la LOMLOE, el consejo orientador individualizado se emite al final de:",
+    "opciones": [
+      "1.º y 3.º",
+      "2.º y 4.º",
+      "Solo 4.º",
+      "3.º y 4.º"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-059",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Con la LOMLOE, en 4.º de ESO:",
+    "opciones": [
+      "Se elimina el consejo orientador",
+      "Se crea una reválida final",
+      "Se implantan itinerarios",
+      "Desaparecen las vías académica y aplicada"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-060",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "El título de Graduado en ESO, según la LOMLOE, se obtiene:",
+    "opciones": [
+      "Solo superando una reválida",
+      "Solo cursando la vía académica",
+      "Únicamente en centros públicos",
+      "Por la propia ESO, por los PDC y por la FP Básica"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-061",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "El Bachillerato de la LOMLOE comprende:",
+    "opciones": [
+      "Tres cursos",
+      "Un único curso",
+      "Cuatro cursos",
+      "Dos cursos"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-062",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Los ámbitos de los ciclos formativos de Grado Básico son:",
+    "opciones": [
+      "Científico y Tecnológico",
+      "Comunicación y Ciencias Sociales, y Ciencias Aplicadas",
+      "Humanístico y Artístico",
+      "Lingüístico y Matemático"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-063",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "El acceso a un ciclo de Grado Básico se produce:",
+    "opciones": [
+      "Por prueba de acceso obligatoria",
+      "Por propuesta del equipo docente mediante el consejo orientador",
+      "Por solicitud directa sin requisitos",
+      "Por sorteo entre solicitantes"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-064",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "El primer nivel de concreción curricular se plasma, en Castilla-La Mancha, en:",
+    "opciones": [
+      "Los Planes de Trabajo",
+      "Los Decretos 82/2022 y 83/2022 y los reales decretos estatales",
+      "Las Programaciones de aula",
+      "El Proyecto Educativo de Centro"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-065",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "En el segundo nivel de concreción, el centro adapta el currículo a su contexto mediante:",
+    "opciones": [
+      "Los decretos autonómicos",
+      "Las situaciones de aprendizaje de cada docente",
+      "El Proyecto Educativo y la Programación General Anual",
+      "Los Planes de Trabajo individuales"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-066",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "La programación didáctica:",
+    "opciones": [
+      "Relaciona competencias específicas, criterios de evaluación y saberes básicos y los distribuye por trimestres",
+      "Fija las enseñanzas mínimas de la etapa",
+      "Es elaborada por cada alumno con su tutor",
+      "Concreta las medidas extraordinarias de inclusión"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-067",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Cada situación de aprendizaje incluye:",
+    "opciones": [
+      "Una prueba escrita y su baremo de calificación",
+      "Solo una lista de contenidos conceptuales",
+      "Un contexto con un reto, una secuencia competencial con DUA, un producto final y evaluación",
+      "El presupuesto del departamento"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-068",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Como referente supranacional del currículo se cita:",
+    "opciones": [
+      "La Constitución de 1812",
+      "El Informe Quintana",
+      "La Recomendación del Consejo de la UE de 22/05/2018 sobre competencias clave",
+      "La Declaración de Jomtien de 1990"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-069",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "El perfil de salida del alumnado es el referente último para:",
+    "opciones": [
+      "La evaluación y la titulación",
+      "La asignación de tutores",
+      "La organización del calendario escolar",
+      "La elección de libros de texto"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-070",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Los criterios de evaluación se formulan con la estructura:",
+    "opciones": [
+      "Qué (infinitivo + complemento) + cómo",
+      "Expresión nominal agrupada por bloques",
+      "Qué (infinitivo) + cómo (gerundio) + para qué",
+      "Objetivo operativo + conducta terminal"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-071",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Gimeno (2008) describe el currículo como:",
+    "opciones": [
+      "Un documento administrativo sin valor pedagógico",
+      "Un listado cerrado de contenidos",
+      "La «partitura» de la cultura escolar, que profesorado y alumnado interpretan",
+      "La suma de las programaciones de aula"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-072",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Según el nivel de abstracción de los objetivos, «Calcular superficies de figuras planas» es un objetivo:",
+    "opciones": [
+      "Un gran fin de la educación",
+      "Específico (didáctico)",
+      "General de etapa",
+      "Operativo (de tarea)"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-073",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "«Traducir sin diccionario un capítulo concreto de una obra» es un ejemplo de objetivo:",
+    "opciones": [
+      "General de etapa",
+      "Un gran fin de la educación",
+      "Operativo (de tarea)",
+      "Específico (didáctico)"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-074",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "La competencia se define como la combinación de:",
+    "opciones": [
+      "Capacidades, ritmos y estilos de aprendizaje",
+      "Objetivos, actividades y recursos",
+      "Conocimientos (saber), destrezas (saber hacer) y actitudes (saber ser) adecuada al contexto",
+      "Contenidos, métodos y evaluación"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-075",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Respecto a las competencias clave de la LOMLOE es cierto que:",
+    "opciones": [
+      "No existe jerarquía entre ellas ni correspondencia exclusiva con una materia",
+      "Cada competencia corresponde a una única materia",
+      "La competencia lingüística es superior a las demás",
+      "Solo se evalúan en Bachillerato"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-076",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "En Formación Profesional se evalúa mediante:",
+    "opciones": [
+      "Estándares de aprendizaje evaluables",
+      "Resultados de aprendizaje asociados a la competencia profesional",
+      "Pruebas finales externas",
+      "Solo exámenes teóricos"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-077",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Los saberes básicos responden a la pregunta:",
+    "opciones": [
+      "¿Cuándo se debe enseñar?",
+      "¿Quién debe enseñar?",
+      "¿Cómo se evalúa lo aprendido?",
+      "¿Qué es valioso enseñar y aprender?"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-078",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "El orden en que aparecen los saberes básicos dentro de los bloques:",
+    "opciones": [
+      "Es la secuencia obligatoria de la Administración",
+      "No implica secuenciación; la deciden los departamentos en las programaciones",
+      "Lo decide cada alumno",
+      "Lo fija el Consejo Escolar"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-079",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "En la metodología competencial se inspiran autores como:",
+    "opciones": [
+      "Durkheim y Weber",
+      "Skinner y Pavlov",
+      "Piaget y Kohlberg",
+      "Montessori, Decroly, Dewey y Freinet"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-080",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "En el aprendizaje por descubrimiento (Bruner), el razonamiento es:",
+    "opciones": [
+      "Inductivo",
+      "Intrapsicológico exclusivamente",
+      "Memorístico",
+      "Deductivo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-081",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "En el aprendizaje cooperativo el docente:",
+    "opciones": [
+      "Expone todo el contenido",
+      "Supervisa de forma activa y no directiva",
+      "Evalúa solo el resultado individual",
+      "No interviene en ningún momento"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-085",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "La evaluación en Bachillerato es, según el artículo 22 del Decreto 83/2022:",
+    "opciones": [
+      "Global y no diferenciada",
+      "Continua, formativa e integradora",
+      "Final y sumativa",
+      "Continua y diferenciada por materias"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-086",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Los criterios de evaluación de cada curso se concretan en:",
+    "opciones": [
+      "El anexo III del Real Decreto 217/2022",
+      "El anexo II de los Decretos 82/2022 y 83/2022",
+      "La Orden 118/2022",
+      "El Proyecto Educativo de cada centro"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-087",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "En la evaluación de la ESO, la evaluación integradora tiene como finalidad:",
+    "opciones": [
+      "Calificar solo los exámenes finales",
+      "Valorar todas las competencias de forma global",
+      "Detectar pronto dificultades y logros",
+      "Mejorar el aprendizaje con retroalimentación"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-088",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "En la evaluación, el elemento que responde a la pregunta «¿cómo evalúo?» es:",
+    "opciones": [
+      "El criterio",
+      "El procedimiento",
+      "El instrumento",
+      "La actividad"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-089",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "La observación, la autoevaluación, la coevaluación y el diálogo son ejemplos de:",
+    "opciones": [
+      "Criterios de calificación",
+      "Actividades de evaluación",
+      "Instrumentos de evaluación",
+      "Procedimientos de evaluación"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-090",
+    "tema": "Tema 2 · Currículo escolar y proceso de enseñanza-aprendizaje en la Educación Secundaria",
+    "pregunta": "Las exposiciones orales, los documentos escritos y los murales son ejemplos de:",
+    "opciones": [
+      "Procedimientos de evaluación",
+      "Instrumentos de evaluación",
+      "Actividades de evaluación",
+      "Descriptores operativos"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-092",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Según Torrego (2008), la tarea docente responde a:",
+    "opciones": [
+      "Problemas técnicos con una única solución",
+      "Procedimientos burocráticos normalizados",
+      "Situaciones problemáticas, con resultados imprevisibles y cargadas de conflictos de valor",
+      "Rutinas estables y predecibles"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-093",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "El profesional democrático de Fernández Enguita se opone al:",
+    "opciones": [
+      "Profesional liberal y al burocrático",
+      "Profesional reflexivo",
+      "Profesional comprometido con el público",
+      "Profesional colaborativo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-094",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "El aprendizaje básico del profesorado «fundamentos del cambio» supone:",
+    "opciones": [
+      "Actualizarse en los contenidos de la disciplina",
+      "Reconocer que aprender es una tarea emocional",
+      "Conectar con cómo aprende el alumnado",
+      "Anticipar el futuro y manejar la incertidumbre y el conflicto"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-095",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "El «nuevo profesionalismo» (Stoll y Fink) consiste en:",
+    "opciones": [
+      "Formar parte responsable de una comunidad e investigar sobre el propio trabajo",
+      "Anticipar el futuro",
+      "Unir cómo aprende el alumnado y qué se enseña",
+      "Convertir en rutina la reflexión sobre el propio aprendizaje"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-096",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "La «comprensión pedagógica» supone:",
+    "opciones": [
+      "Actualizarse en los contenidos de la disciplina",
+      "Unir cómo aprende el alumnado y qué se enseña para enseñar con eficacia",
+      "Crear lazos emocionales con el alumnado",
+      "Manejar la incertidumbre del cambio"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-097",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Como facilitador del aprendizaje, el alumnado pasa de receptor pasivo a:",
+    "opciones": [
+      "Investigador crítico en diálogo con un profesorado que también investiga",
+      "Evaluador de sus compañeros",
+      "Transmisor de saberes",
+      "Gestor del currículo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-098",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "En la organización del currículo, el profesorado debe revisar los saberes que ofrece para evitar un currículo:",
+    "opciones": [
+      "Elitista y selectivo en las etapas obligatorias",
+      "Globalizado e interdisciplinar",
+      "Competencial",
+      "Flexible y personalizado"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-099",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "¿Cuál de estos NO es un elemento de la metodología según Torrego (2008)?",
+    "opciones": [
+      "Los entornos de aprendizaje",
+      "Los principios metodológicos",
+      "Los medios y recursos didácticos",
+      "Los criterios de calificación"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-100",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Entre los principios clásicos de la evaluación, el de «integral» significa que:",
+    "opciones": [
+      "Implica a profesorado y alumnado en el diálogo",
+      "Valora los resultados al terminar la programación",
+      "Es continua: inicial, en desarrollo y final",
+      "Incluye saberes teóricos, prácticos y valorativos"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-101",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "La evaluación «sumativa» es la que:",
+    "opciones": [
+      "Regula la enseñanza y hace al alumnado consciente de sus progresos",
+      "Valora los resultados al terminar la programación",
+      "Es intencional, planificada y secuenciada",
+      "Implica a profesorado y alumnado"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-102",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "La evaluación «participativa» se caracteriza por:",
+    "opciones": [
+      "Implicar a profesorado y alumnado, con diálogo y autorregulación",
+      "Evaluar únicamente contenidos teóricos",
+      "Valorar solo los resultados finales",
+      "Ser exclusiva del profesorado"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-103",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Sobre la evaluación, es cierto que:",
+    "opciones": [
+      "Está libre de incoherencias con la enseñanza",
+      "Predomina evaluar procesos y no productos",
+      "Nunca supone juzgar la calidad",
+      "Predomina evaluar productos y no procesos"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-104",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "La evaluación «sistemática» se define como:",
+    "opciones": [
+      "Centrada en los resultados al finalizar",
+      "Intencional, planificada, ordenada y secuenciada",
+      "Valoradora de saberes teóricos, prácticos y valorativos",
+      "Continua: inicial, en desarrollo y final"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-105",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Hoy el cargo de profesor ya no basta para tener autoridad, por lo que el liderazgo debe ejercerse desde un planteamiento:",
+    "opciones": [
+      "Jerárquico y basado en el cargo",
+      "Permisivo y evitando el conflicto",
+      "Burocrático y normativo",
+      "Democrático, atendiendo a la tarea y a la vida afectiva del grupo"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-106",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Para superar el modelo agresivo/dominante de afrontamiento de la disciplina es necesario:",
+    "opciones": [
+      "Poner límites, firmeza y orden",
+      "Aumentar las amonestaciones escritas",
+      "Ganarse la amistad del alumnado",
+      "Ganar respeto, cordialidad y confianza"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-107",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Para superar el modelo pasivo/permisivo es necesario:",
+    "opciones": [
+      "Poner límites, firmeza y orden",
+      "Ganar respeto, cordialidad y confianza",
+      "Evitar intervenir",
+      "Imponer las normas sin consulta"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-108",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "La tutoría en Bachillerato está regulada en:",
+    "opciones": [
+      "El artículo 6 de la LOMLOE",
+      "El artículo 132 de la LOMLOE",
+      "El artículo 14 del Decreto 82/2022",
+      "El artículo 20 del Decreto 83/2022"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-109",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "La tutoría con las familias:",
+    "opciones": [
+      "Hace de mediación entre el centro y la familia con una relación directa, estable, fluida y continuada",
+      "Solo se activa ante problemas disciplinarios",
+      "Se limita a comunicar las calificaciones finales",
+      "Es competencia exclusiva de la dirección"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-110",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Entre las funciones de la tutoría con el alumnado está:",
+    "opciones": [
+      "La aprobación de las NCOF del centro",
+      "La elaboración de las programaciones didácticas",
+      "La acogida del alumnado que llega de otros centros",
+      "La gestión del presupuesto"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-111",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "En la coordinación del equipo docente, el tutor/a:",
+    "opciones": [
+      "Representa al grupo ante el Consejo Escolar",
+      "Elabora el Proyecto Educativo",
+      "Informa al profesorado sobre el grupo y establece criterios comunes de organización de la clase",
+      "Decide por sí solo la promoción del alumnado"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-112",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Para fomentar el clima positivo en la comunicación del aula se recomienda:",
+    "opciones": [
+      "Ignorar las variables ambientales",
+      "Evitar el feedback",
+      "Mantener una única metodología",
+      "Tener presente el efecto Pigmalión y evitar actitudes negativas"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-113",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "En la comunicación «didáctica» se recomienda:",
+    "opciones": [
+      "Ser arbitrario en la evaluación",
+      "Evitar adaptar la comunicación",
+      "Acercar el tema a la realidad del contexto y mostrar la utilidad de lo que se aprende",
+      "Utilizar un lenguaje complejo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-114",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Según Hargreaves (1998), las culturas de colaboración:",
+    "opciones": [
+      "Se limitan a reuniones obligatorias",
+      "Son impuestas por la Administración",
+      "Evitan la participación de todos en la gestión",
+      "Desarrollan procesos autónomos de trabajo y generan autoestima colectiva"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-115",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "El autocontrol del docente favorece:",
+    "opciones": [
+      "Ser modelo ante el alumnado, la madurez personal y el control del estrés",
+      "La baja tolerancia a la frustración",
+      "La evitación del conflicto",
+      "El estilo atribucional externo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-116",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Entre las técnicas de autocontrol se incluyen:",
+    "opciones": [
+      "La amonestación escrita",
+      "La rotación de tutorías",
+      "Mensajes internos positivos, relajación muscular y control respiratorio",
+      "La evitación de las emociones"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-117",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "En la respuesta asertiva con reconocimiento:",
+    "opciones": [
+      "Se evita expresar opinión",
+      "Se reconoce primero al otro y después se plantean los propios derechos",
+      "Se reflejan al otro sus conductas agresivas",
+      "Se repite un «no» educado y firme sin justificarse"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-118",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Ante una conducta agresiva, la técnica asertiva recomendada consiste en:",
+    "opciones": [
+      "Salir del contenido y señalar cómo se está comportando la otra persona",
+      "Expresar con sencillez lo que pienso",
+      "Repetir un «no» educado y firme",
+      "Reconocer primero al otro"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-120",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "La competencia social y ciudadana comprende, entre otras, la dimensión:",
+    "opciones": [
+      "Digital, plurilingüe y emprendedora",
+      "Sociopolítica, sociocultural, socioafectiva y socioeconómica",
+      "Física, biológica y química",
+      "Lingüística, matemática y científica"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-121",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "La maestría docente se construye:",
+    "opciones": [
+      "Con la antigüedad en el cargo",
+      "Analizando la propia práctica, con otros y a lo largo de toda la carrera",
+      "Aplicando recetas cerradas",
+      "Solo con la formación inicial"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-123",
+    "tema": "Tema 3 · El profesorado en Educación Secundaria",
+    "pregunta": "Son estrategias de reflexión-acción:",
+    "opciones": [
+      "La observación directa, las grabaciones, los relatos y los diálogos reflexivos",
+      "Los partes de incidencias",
+      "Las pruebas estandarizadas",
+      "Los rankings de centros"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-124",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "Los órganos de gobierno de un centro de Secundaria son:",
+    "opciones": [
+      "La CCP y el departamento de orientación",
+      "La tutoría, el equipo docente y los departamentos",
+      "El equipo directivo, el Consejo escolar y el Claustro del profesorado",
+      "La Junta de delegados y las asociaciones de madres y padres"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-125",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "Según la Orden 118/2022, son órganos de coordinación docente:",
+    "opciones": [
+      "La tutoría, el equipo docente, los departamentos, el departamento de orientación, la CCP y los responsables de funciones específicas",
+      "El equipo directivo y el Claustro",
+      "El Consejo escolar y el Claustro",
+      "La Junta de delegados y las asociaciones"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-126",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "El horario de tutoría con las familias:",
+    "opciones": [
+      "Se debe poner en conocimiento de las familias y exponer en el tablón de anuncios del centro",
+      "Es secreto del tutor",
+      "Lo fija el Consejo Escolar cada trimestre",
+      "Solo se comunica a quien lo solicita"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-127",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "Al elaborar el Proyecto Educativo se debe tener en cuenta:",
+    "opciones": [
+      "Las preferencias individuales de cada docente",
+      "Solo la normativa estatal",
+      "Las características del entorno social y cultural del centro",
+      "Únicamente el presupuesto disponible"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-128",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "El Proyecto Educativo debe respetar, entre otros valores fundamentales:",
+    "opciones": [
+      "La uniformidad metodológica",
+      "La personalización de la enseñanza y la inclusión educativa",
+      "La separación por niveles",
+      "La selección del alumnado por rendimiento"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-129",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "En el Proyecto Educativo, la concreción del currículo es:",
+    "opciones": [
+      "Fijada y aprobada por el Claustro",
+      "Fijada por la Inspección",
+      "Decidida por la Jefatura de Estudios sin consulta",
+      "Aprobada por la AMPA"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-130",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "Entre los apartados del Proyecto Educativo se encuentran:",
+    "opciones": [
+      "El presupuesto anual y las cuentas del centro",
+      "El calendario de exámenes finales",
+      "La relación de libros de texto del curso",
+      "La atención a la diversidad, la acción tutorial y el Plan de Convivencia"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-131",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "La Programación General Anual:",
+    "opciones": [
+      "Es el presupuesto del centro",
+      "Fija el currículo mínimo estatal",
+      "Es elaborada por cada departamento didáctico",
+      "Concreta para cada curso escolar el Proyecto Educativo y garantiza el desarrollo coordinado de las actividades del centro"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-132",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "La Programación General Anual es elaborada por:",
+    "opciones": [
+      "El Consejo Escolar en solitario",
+      "Cada tutor para su grupo",
+      "El Equipo Directivo con la participación del profesorado a través del Claustro",
+      "La Inspección educativa"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-133",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "Las programaciones didácticas son instrumentos específicos de planificación, desarrollo y evaluación de cada:",
+    "opciones": [
+      "Alumno con necesidades específicas",
+      "Órgano colegiado",
+      "Equipo directivo",
+      "Materia, ámbito o módulo del currículo"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-134",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "Las programaciones didácticas garantizan:",
+    "opciones": [
+      "La aprobación del presupuesto",
+      "La coherencia con el Proyecto Educativo y la continuidad de los aprendizajes a lo largo de los cursos y etapas",
+      "La selección del alumnado",
+      "La elección del director"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-135",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "Las Normas de convivencia, organización y funcionamiento (NCOF) las elabora:",
+    "opciones": [
+      "La Inspección educativa",
+      "El Equipo directivo, recogiendo las aportaciones de la comunidad educativa",
+      "El Claustro por mayoría simple",
+      "La Junta de delegados"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-136",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "Las NCOF son informadas por el:",
+    "opciones": [
+      "Consejo escolar",
+      "Departamento de orientación",
+      "Equipo docente",
+      "Claustro"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-137",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "El Proyecto de gestión concreta:",
+    "opciones": [
+      "La autonomía de gestión económica del centro mediante su presupuesto",
+      "El Plan de Convivencia",
+      "La concreción del currículo",
+      "Las medidas de inclusión educativa"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-138",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "El Proyecto de gestión debe ser coherente con:",
+    "opciones": [
+      "Las NCOF de otros centros",
+      "El calendario escolar autonómico",
+      "Los principios educativos del Proyecto Educativo y la Programación General Anual",
+      "Las preferencias de las familias"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-139",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "El Proyecto de gestión está regulado en:",
+    "opciones": [
+      "El artículo 26 de la Orden 118/2022",
+      "El artículo 132 de la LOMLOE",
+      "El artículo 6 de la LOMLOE",
+      "El artículo 14 del Decreto 82/2022"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-140",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "La jefatura de estudios ejerce la jefatura del personal docente en lo relativo al:",
+    "opciones": [
+      "Régimen de contratación",
+      "Régimen académico",
+      "Régimen económico",
+      "Régimen disciplinario del alumnado exclusivamente"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-141",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "La competencia de elaborar el inventario de libros y recursos informáticos corresponde a:",
+    "opciones": [
+      "El jefe/a de estudios",
+      "El director/a",
+      "El secretario/a",
+      "El coordinador/a de formación"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-142",
+    "tema": "Tema 4 · El centro de Educación Secundaria",
+    "pregunta": "Los departamentos didácticos están formados por:",
+    "opciones": [
+      "El profesorado que imparte las asignaturas de la misma área",
+      "Los miembros del equipo directivo",
+      "Todo el profesorado del centro",
+      "Los tutores de cada nivel"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-143",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Entre los principios de la calidad educativa (Delgado, 2014) se destaca:",
+    "opciones": [
+      "La reducción de la formación del profesorado",
+      "La adaptación del currículo a las aptitudes, intereses y necesidades individuales del alumnado",
+      "La selección temprana del alumnado",
+      "La uniformidad del currículo para todo el alumnado"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-144",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Según Delgado (2014), la calidad educativa requiere también:",
+    "opciones": [
+      "La eliminación de la autonomía de los centros",
+      "La evaluación del propio sistema educativo, de los centros y del alumnado",
+      "La competencia entre docentes",
+      "La supresión de las evaluaciones"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-145",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Una de las dificultades para definir la calidad educativa es que:",
+    "opciones": [
+      "Quien educa es un mero ejecutor",
+      "Los procesos mentales de aprendizaje son siempre evidentes",
+      "Existen diferencias entre las ideas sobre lo que ha de ser la educación",
+      "Solo existe una definición válida"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-146",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Según Mortimore (1991), un sistema escolar eficaz es el que:",
+    "opciones": [
+      "Selecciona al alumnado con mejor rendimiento",
+      "Reduce las materias optativas",
+      "Obtiene los mejores resultados en pruebas externas",
+      "Maximiza la capacidad de las escuelas para alcanzar esos resultados"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-148",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Según Giné (2002), un sistema de calidad debe estimular y facilitar:",
+    "opciones": [
+      "La uniformidad de los métodos",
+      "El desarrollo y el bienestar del profesorado y de los demás profesionales del centro",
+      "La reducción de la plantilla",
+      "La competencia entre docentes"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-149",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Para la LOMLOE, la calidad es:",
+    "opciones": [
+      "Un asunto exclusivo de los centros privados",
+      "Una consecuencia automática de la escolarización",
+      "Un elemento constituyente del derecho a la educación",
+      "Un lujo prescindible"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-150",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Se considera un logro de las últimas décadas:",
+    "opciones": [
+      "La mejora de los resultados en pruebas internacionales",
+      "La eliminación del abandono escolar",
+      "La universalización de la educación",
+      "La reducción del currículo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-151",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Como pieza fundamental para producir el cambio metodológico que mejore la calidad, la LOMLOE destaca:",
+    "opciones": [
+      "Las tecnologías de la información y la comunicación",
+      "La reducción de la ratio exclusivamente",
+      "El aumento de las horas lectivas",
+      "Las reválidas"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-152",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Según la LOMLOE, una de las principales carencias del sistema educativo español es:",
+    "opciones": [
+      "La educación artística",
+      "La educación física",
+      "La enseñanza de las matemáticas",
+      "El dominio de una segunda o tercera lengua extranjera"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-153",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Los países que han mejorado rápidamente la calidad de sus sistemas educativos han implantado medidas como:",
+    "opciones": [
+      "La ampliación de contenidos del currículo",
+      "La eliminación de la evaluación externa",
+      "La simplificación del currículo, la evaluación externa y la rendición de cuentas",
+      "La reducción de la autonomía de los centros"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-154",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "En los orígenes de la atención al alumnado con discapacidad predominó un modelo:",
+    "opciones": [
+      "Asistencial y clínico, no educativo",
+      "Comprensivo e inclusivo",
+      "Competencial",
+      "Basado en el DUA"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-155",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "En los años 60 los centros de Educación Especial surgieron por iniciativa de:",
+    "opciones": [
+      "La LOGSE",
+      "Los ayuntamientos",
+      "Asociaciones de madres y padres",
+      "La Inspección educativa"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-156",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "La LOE introdujo el concepto de alumnado con:",
+    "opciones": [
+      "Discapacidad intelectual",
+      "Altas capacidades únicamente",
+      "Necesidades educativas especiales (ACNEE)",
+      "Necesidades específicas de apoyo educativo (ACNEAE)"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-157",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Es una causa para ser considerado ACNEAE:",
+    "opciones": [
+      "Pertenecer a un centro rural",
+      "La incorporación tardía al sistema educativo español",
+      "Estudiar en horario nocturno",
+      "Cursar optativas"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-158",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Entre las categorías del alumnado ACNEAE se encuentran:",
+    "opciones": [
+      "Las dificultades específicas de aprendizaje y las altas capacidades intelectuales",
+      "El alumnado repetidor únicamente",
+      "El alumnado de centros concertados",
+      "Solo el alumnado con discapacidad"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-160",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Respecto a las medidas de inclusión educativa del Decreto 85/2018 es cierto que:",
+    "opciones": [
+      "Solo se aplican fuera del grupo de referencia",
+      "No tienen carácter excluyente entre sí",
+      "Son excluyentes entre sí",
+      "Las decide la familia"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-161",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Con carácter general, las medidas de inclusión se desarrollan:",
+    "opciones": [
+      "Solo fuera del horario lectivo",
+      "Dentro del grupo de referencia del alumno/a",
+      "En centros de educación especial",
+      "En aulas específicas separadas"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-162",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Es una medida de inclusión promovida por la Consejería (Administración):",
+    "opciones": [
+      "Los programas de prevención, seguimiento y control del absentismo, fracaso y abandono escolar",
+      "Las adaptaciones de acceso individuales",
+      "Los desdobles y agrupamientos flexibles",
+      "El trabajo por rincones"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-163",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Los programas de mejora del aprendizaje y el rendimiento, la optatividad y los programas de acogida son medidas:",
+    "opciones": [
+      "De Administración",
+      "De aula",
+      "De centro",
+      "Extraordinarias"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-164",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "El trabajo por rincones, la co-enseñanza y los bancos de actividades graduadas son medidas:",
+    "opciones": [
+      "De centro",
+      "De aula",
+      "De Administración",
+      "Individualizadas"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-165",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "La escolarización por debajo del curso que corresponde por edad para el alumnado de incorporación tardía es una medida:",
+    "opciones": [
+      "Individualizada",
+      "De aula",
+      "Extraordinaria",
+      "De Administración"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-166",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Las medidas extraordinarias implican:",
+    "opciones": [
+      "Medidas aplicables a todo el grupo",
+      "Actuaciones de sensibilización",
+      "Solo cambios organizativos del centro",
+      "Ajustes y cambios significativos en algunos aspectos curriculares"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "ped-imp-167",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "En el Plan de Trabajo, el proceso es coordinado por el tutor/a y planificado por:",
+    "opciones": [
+      "El Consejo Escolar",
+      "La Jefatura de Estudios",
+      "La Dirección",
+      "La Inspección"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-168",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "En Secundaria, el asesoramiento en la elaboración del Plan de Trabajo corresponde al:",
+    "opciones": [
+      "Consejo Escolar",
+      "Equipo de Orientación y Apoyo",
+      "Departamento de Orientación",
+      "Claustro"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-169",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "La evaluación del Plan de Trabajo se refleja en:",
+    "opciones": [
+      "El boletín de notas",
+      "Un informe de valoración final, del que se entrega copia a las familias",
+      "La memoria anual del centro",
+      "Un acta del Consejo escolar"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-170",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "El Plan de Trabajo incluye:",
+    "opciones": [
+      "Las medidas de inclusión previstas, los profesionales implicados y el seguimiento de los progresos",
+      "Las programaciones didácticas del departamento",
+      "Solo las calificaciones del alumno",
+      "El presupuesto del centro"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-171",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Según el artículo 4.3 de la LOMLOE, la educación inclusiva es:",
+    "opciones": [
+      "Una opción para los centros",
+      "Un principio fundamental de la educación",
+      "Una medida extraordinaria",
+      "Una etapa educativa"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "ped-imp-173",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "La diferencia entre el DUA y las meras adaptaciones de acceso es que el DUA busca:",
+    "opciones": [
+      "Reducir las expectativas",
+      "Eliminar los desafíos del aprendizaje",
+      "Eliminar barreras sin eliminar desafíos",
+      "Adaptar al alumno al currículo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-174",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "El DUA considera que el principal obstáculo en los entornos de enseñanza es:",
+    "opciones": [
+      "Los currículos inflexibles",
+      "La formación del profesorado",
+      "La tecnología",
+      "La falta de motivación del alumnado"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-175",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Según el DUA, la variabilidad individual:",
+    "opciones": [
+      "Se elimina con un currículo único",
+      "Es la excepción",
+      "Es la norma y no la excepción",
+      "Solo afecta al alumnado con discapacidad"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-176",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Entre las aportaciones del DUA a la atención a la diversidad está:",
+    "opciones": [
+      "Aumentar los diagnósticos",
+      "Aplicar una única metodología",
+      "Romper la dicotomía entre alumnado con y sin discapacidad",
+      "Crear aulas específicas"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-177",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Las redes de reconocimiento están especializadas en:",
+    "opciones": [
+      "Memorizar contenidos",
+      "Evaluar y asumir prioridades: el «por qué»",
+      "Recibir y analizar la información: el «qué» del aprendizaje",
+      "Planificar y ejecutar tareas: el «cómo»"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-178",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Las redes estratégicas se relacionan con:",
+    "opciones": [
+      "Planificar, ejecutar y monitorizar tareas: el «cómo» del aprendizaje",
+      "Recibir y analizar información: el «qué»",
+      "Evaluar y asumir prioridades: el «por qué»",
+      "Las emociones"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "ped-imp-179",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Según el modelo del CAST, el Principio I del DUA es el diseño de múltiples medios de:",
+    "opciones": [
+      "Representación (¿qué aprendemos?)",
+      "Evaluación",
+      "Implicación (¿por qué aprender?)",
+      "Acción y expresión (¿cómo aprendemos?)"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "ped-imp-180",
+    "tema": "Tema 5 · La calidad educativa",
+    "pregunta": "Según el modelo del CAST, el Principio III del DUA propone múltiples medios de:",
+    "opciones": [
+      "Evaluación",
+      "Acción y expresión (¿cómo aprendemos?)",
+      "Representación (¿qué aprendemos?)",
+      "Implicación (¿por qué aprender?)"
+    ],
+    "correcta": 1
+  }
+]

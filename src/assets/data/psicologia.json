@@ -1,0 +1,2493 @@
+[
+  {
+    "id": "psi-exa-001",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "La psicología de la educación se interesa por:",
+    "opciones": [
+      "Cómo aprende un sujeto y qué hay que hacer para enseñarle",
+      "El desarrollo cognitivo de los sujetos exclusivamente",
+      "Los valores morales de la sociedad"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-exa-002",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "Si a un estímulo EI que provoca una respuesta RI lo asociamos con otro estimulo EC, cuando se produzca éste, aparecerá la respuesta inicial o una muy parecida.",
+    "opciones": [
+      "Conductismo clásico",
+      "Conductismo operante",
+      "Aprendizaje observacional"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-exa-003",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "Para lograr aumentar la probabilidad de repetir una respuesta mediante una recompensa utilizaríamos:",
+    "opciones": [
+      "Condicionamiento",
+      "Refuerzo",
+      "Extinción"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-exa-004",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "Un refuerzo negativo es:",
+    "opciones": [
+      "Aquel que aumenta la probabilidad de una respuesta porque interrumpe un hecho desagradable o aversivo",
+      "Aquel que aumenta la probabilidad de respuesta porque proporciona un estímulo valorado como agradable",
+      "Estimulo aversivo que le damos al sujeto cuando presenta un comportamiento inadecuado"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-exa-005",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "Los exámenes sorpresa son un ejemplo de:",
+    "opciones": [
+      "Programa de refuerzo parcial de razón variable",
+      "Programa de refuerzo parcial de intervalo variable",
+      "Programa de refuerzo parcial de razón fija"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-exa-006",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "Las teorías conductistas defienden el aprendizaje por asociación de estímulos frente a la intervención en el aprendizaje de procesos mentales complejos",
+    "opciones": [
+      "Verdadero",
+      "Falso",
+      "Solo para el condicionamiento clásico"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-exa-007",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "Las teorías cognitivas del aprendizaje coinciden en otorgar al docente el papel de:",
+    "opciones": [
+      "Director, sabio, conocedor del conocimiento",
+      "Mediador, orientador, impulsor del aprendizaje",
+      "No interviene en el proceso de aprendizaje"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-exa-008",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "La recomendación de partir de un conocimiento previo para la comprensión y el aprendizaje de un concepto nuevo es defendida por la teoría de:",
+    "opciones": [
+      "Zona de Desarrollo Próximo",
+      "Aprendizaje Significativo",
+      "Aprendizaje por Descubrimiento"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-exa-009",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "Para el aprendizaje por descubrimiento guiado de Bruner el método a seguir es:",
+    "opciones": [
+      "Inductivo",
+      "Deductivo",
+      "Intrapsicológico"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-exa-010",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "La posibilidad o potencial que los individuos tenemos para ir desarrollando las habilidades psicológicas con dependencia de los demás, se denomina:",
+    "opciones": [
+      "Zona de desarrollo real",
+      "Zona de desarrollo próximo",
+      "Zona de desarrollo potencial BLOQUE II: PSICOLOGIA DEL DESARROLLO"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-exa-011",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "Periodo de transición entre la niñez y la etapa adulta que se caracteriza por cambios físicos, psicológicos/cognitivos y socio afectivos:",
+    "opciones": [
+      "Pubertad",
+      "Adolescencia",
+      "Infantil"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-exa-012",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "El crecimiento del cerebro en el adolescente se caracteriza por:",
+    "opciones": [
+      "Los principales cambios están concentrados en el córtex frontal que están asociados con procesos cognoscitivos complejos",
+      "El crecimiento del cerebro es regular, el sistema límbico crece más rápido que la corteza prefrontal",
+      "Las conexiones neuronales experimentan una menor mielinización y poda, una nueva reestructuración cerebral."
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-exa-013",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "La aparición del vello púbico durante la pubertad forma parte del desarrollo de:",
+    "opciones": [
+      "Los órganos primarios sexuales",
+      "Los caracteres sexuales secundarios",
+      "La madurez temprana"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-exa-014",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "El concepto que se refiere a la idea o sensación de que el adolescente es un ser único, excepcional e irrepetible se denomina:",
+    "opciones": [
+      "Audiencia imaginaria",
+      "Egocentrismo",
+      "Fábula personal"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-exa-015",
+    "tema": "Tema 1.2 · Desarrollo cognitivo en la adolescencia",
+    "pregunta": "Según Piaget, el tipo de razonamiento que desarrolla a partir de los 12 años es:",
+    "opciones": [
+      "Hipotético-deductivo, pueden abordar aspectos abstractos",
+      "Solo deductivo",
+      "Por inducción acelerada"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-exa-016",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "Uno de los mayores temores a nivel social en la adolescencia es:",
+    "opciones": [
+      "El rendimiento académico",
+      "La no aceptación social",
+      "El autocontrol"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-exa-017",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "La melatonina durante la adolescencia tiene relación con los ciclos de vigilia-sueño:",
+    "opciones": [
+      "Verdadero",
+      "Falso",
+      "Influye en la percepción del estimulo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-exa-018",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "El desarrollo de la personalidad en la adolescencia viene determinado principalmente por el logro de:",
+    "opciones": [
+      "Los conflictos entre iguales",
+      "El inconformismo con los padres",
+      "La identidad del yo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-exa-019",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "En la adolescencia los amigos íntimos son quiénes:",
+    "opciones": [
+      "Te obligan a comportarte como no eres",
+      "Conocen tu verdadero yo y te ayudan en la maduración",
+      "Se preocupan por ti y te tienen cariño"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-exa-020",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "Como docentes de adolescentes es importante considerar que es conveniente…",
+    "opciones": [
+      "Adaptarnos a sus estilos de comportamiento",
+      "Mantener una postura de autoridad",
+      "Ser conscientes de que formamos parte de su desarrollo hacia la madurez BLOQUE III: LAS NECESIDADES EDUCATIVAS ESPECIALES"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-exa-021",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "La normalización:",
+    "opciones": [
+      "Es un concepto biológico y se refiere a que algunas personas vienen con algún deterioro orgánico, alguna inferioridad física o psíquica, algún tipo de enfermedad",
+      "Implica poner al alcance de las personas discapacitadas unos modos y unas condiciones de vida diarios lo más parecidos posibles a las formas y condiciones de vida del resto de la sociedad",
+      "Es una idea reguladora de la racionalidad práctica de la acción social en el sentido que nos orienta, ayuda, mentaliza a aceptar que la sociedad está formada por seres diferentes y algunos más diferentes."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-exa-022",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "Un alumno tiene Necesidades educativas especiales cuando:",
+    "opciones": [
+      "Presenta dificultades mayores que el resto de sus compañeros para acceder a todos los aprendizajes.",
+      "Presenta dificultades mayores que el resto de sus compañeros para acceder a todos los aprendizajes que se determinan en el currículo que le corresponde a su edad.",
+      "Presenta dificultades mayores que el resto de sus compañeros para acceder a los aprendizajes que se determinan en el currículo que le corresponde por su edad y necesita para compensar dichas dificultades, adaptaciones de acceso y adaptaciones curriculares significativas en varias áreas de su currículo."
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-exa-023",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "La definición de la discapacidad intelectual según el manual DSM-V incluye:",
+    "opciones": [
+      "Un solo criterio relacionado con déficits en el funcionamiento intelectual",
+      "Tres criterios: uno relacionado con los déficits en el funcionamiento intelectual, otro con los déficits en el funcionamiento adaptativo y otro relacionado con esos mismos déficits y su aparición durante el periodo de desarrollo.",
+      "Cinco criterios: uno relacionado con los déficits en el funcionamiento intelectual, otro con los déficits en el razonamiento matemático, otro con el razonamiento lingüístico, otro con el bagaje cultural y un último con las destrezas psicomotoras."
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-exa-024",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "Entre las posibles causas de la discapacidad intelectual están:",
+    "opciones": [
+      "Las prenatales (tipo tnos cromosómicos), las perinatales (tipo lesiones en el momento del nacimiento) y las postnatales (tipo traumatismos)",
+      "Solo las genéticas",
+      "Solo las ambientales"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-exa-025",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "La disincronía es el desequilibrio entre los diferentes planos de desarrollo que se suele dar con alumnos superdotados o de altas capacidades:",
+    "opciones": [
+      "Puede ser interna y social",
+      "Interna, externa, superior e inferior",
+      "Solo externa RESPUESTA: ?"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-exa-026",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "Entre el tipo de medidas de atención a la diversidad que ponen en marcha para alumnos de altas capacidades están:",
+    "opciones": [
+      "Las medidas de carácter ordinario como: presentación de contenidos de distinto grado de dificultad, diseño de actividades diversas, amplias, de libre elección, individuales, organización flexible",
+      "Las medidas de carácter extraordinario como: las adaptaciones curriculares individualizadas de enriquecimiento, las adaptaciones curriculares individualizadas de ampliación, y las medidas de carácter excepcional como la aceleración",
+      "Ambas son correctas RESPUESTA: ?"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-exa-027",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "Dentro de los criterios de desatención del DSM 5 para el trastorno déficit de atención con hiperactividad/impulsividad están los siguientes criterios:",
+    "opciones": [
+      "A menudo no presta suficiente atención a los detalles, o comete errores por descuido en sus tareas escolares, en el trabajo o en otras actividades.",
+      "A menudo no sigue instrucciones y no finaliza las tareas escolares, encargos u obligaciones en el centro de trabajo, sin que ello se deba a comportamiento negativista, o a incapacidad para comprender las instrucciones.",
+      "Ambas son correctas"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-exa-028",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "El objetivo a conseguir en la intervención educativa con el TDAH es:",
+    "opciones": [
+      "Reducir el posible desajuste (trastorno) a un mero rasgo de personalidad (olvidadizo, nervioso)",
+      "Reduciendo en la medida de lo posible la sintomatología, poniendo en marcha todas las adaptaciones a nuestro alcance.",
+      "Ambas son correctas"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-exa-029",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "Dentro del trastorno del espectro autista existe un gran abanico de comorbilidad:",
+    "opciones": [
+      "Con TDAH, trastornos de Ansiedad, X frágil",
+      "Con enfermedades mentales como la Esquizofrenia",
+      "Con enfermedades de transmisión sexual"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-001",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "La psicología del desarrollo se ocupa de:",
+    "opciones": [
+      "Las dificultades de aprendizaje del alumnado",
+      "Solo el desarrollo infantil",
+      "Los procesos de cambio psicológico que ocurren en todas las fases del ciclo vital",
+      "Únicamente el desarrollo cognitivo en la adolescencia"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-002",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "La pubertad se define como:",
+    "opciones": [
+      "La transición social entre la niñez y la edad adulta",
+      "Un periodo definido solo por la cultura",
+      "El periodo de cambios cognitivos y emocionales de los 12 a los 18 años",
+      "El proceso biológico que conduce a la madurez sexual"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-003",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "¿Cuál de estas características corresponde a la pubertad y no a la adolescencia?",
+    "opciones": [
+      "Es cultural y difícil de predecir",
+      "Es biológica, genética y relativamente predecible y fácil de definir",
+      "Comprende todo el proceso de transición a la vida adulta",
+      "Abarca aspectos biológicos, psicológicos y sociales"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-004",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "¿Cuál de estas características corresponde a la adolescencia y no a la pubertad?",
+    "opciones": [
+      "Es siempre predecible y fácil de definir",
+      "Es solo la primera parte del proceso",
+      "Es un proceso biológico, psicológico y social, cultural y difícil de predecir",
+      "Es exclusivamente genética"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-005",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "Según los tres planos que caracterizan la adolescencia, los cambios «socioafectivos» incluyen:",
+    "opciones": [
+      "La diversificación de la inteligencia y el máximo poder de abstracción",
+      "La afirmación de intereses profesionales y sociales, el deseo de libertad y autonomía y el desarrollo de la vida afectiva",
+      "El abandono del cuerpo infantil y la reactivación del instinto sexual",
+      "El aumento de mielina en el córtex frontal"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-006",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "Las edades promedio de la adolescencia son:",
+    "opciones": [
+      "11-15 años en ambos sexos",
+      "13-17 años en ambos sexos",
+      "10-18 años en las mujeres y 12-20 años en los hombres",
+      "12-20 años en las mujeres y 10-18 en los hombres"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-007",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "Según la definición del tema, la adolescencia es el intervalo, definido por la cultura, entre:",
+    "opciones": [
+      "El nacimiento y el inicio de la escolarización obligatoria",
+      "El fin de la Primaria y el acceso a la universidad",
+      "La menarquia o espermarquia y los 30 años",
+      "La capacidad biológica para la reproducción y la capacidad social para la reproducción y la vida adulta"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-008",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "El término «sturm und drang» (tempestad y estrés) para describir la adolescencia se debe a:",
+    "opciones": [
+      "Jean Piaget",
+      "Stanley Hall",
+      "Erik Erikson",
+      "Margaret Mead"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-009",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "Margaret Mead, con sus estudios en Samoa, defendió que la adolescencia es:",
+    "opciones": [
+      "Un periodo universalmente tormentoso",
+      "Una etapa puramente biológica",
+      "Un periodo marcado sobre todo por la cultura y no necesariamente turbulento",
+      "Una etapa que solo existe en sociedades industrializadas"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-010",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "Stanley Hall aplicó al estudio del desarrollo adolescente la teoría de:",
+    "opciones": [
+      "Freud",
+      "Vygotski",
+      "Skinner",
+      "Darwin"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-011",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "Respecto al crecimiento del cerebro en la adolescencia es correcto que:",
+    "opciones": [
+      "Las conexiones neuronales disminuyen su mielinización",
+      "El sistema límbico crece más rápido que la corteza prefrontal",
+      "La corteza prefrontal madura antes que el sistema límbico",
+      "El cerebro crece de forma regular y simultánea"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-012",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "El sistema límbico se relaciona con:",
+    "opciones": [
+      "La memoria de trabajo exclusivamente",
+      "La función ejecutiva y el control",
+      "La planificación a largo plazo",
+      "Las reacciones emocionales y la sensibilidad a sensaciones fuertes e inmediatas"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-013",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "La corteza prefrontal se asocia con:",
+    "opciones": [
+      "La liberación de gametos",
+      "La producción de hormonas sexuales",
+      "La función ejecutiva y el control",
+      "Las reacciones emocionales inmediatas"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-014",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "En la adolescencia, las conexiones neuronales experimentan:",
+    "opciones": [
+      "Una menor mielinización",
+      "Una desaparición de la corteza frontal",
+      "Una mayor mielinización y «poda»",
+      "Un cese total de la formación de sinapsis"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-015",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "Los factores liberadores de hormonas sexuales (Gn-RH) los produce:",
+    "opciones": [
+      "La hipófisis",
+      "Los testículos",
+      "Los ovarios",
+      "El hipotálamo"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-016",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "En la pubertad, la hipófisis aumenta la secreción de:",
+    "opciones": [
+      "Las hormonas LH y FSH",
+      "Estrógenos y testosterona",
+      "Melatonina",
+      "Gn-RH"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-017",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "La primera liberación de gametos en las mujeres se denomina:",
+    "opciones": [
+      "Menarquia",
+      "Telarquia",
+      "Espermarquia",
+      "Adrenarquia"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-018",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "La primera liberación de gametos en los varones se denomina:",
+    "opciones": [
+      "Andropausia",
+      "Espermarquia",
+      "Menarquia",
+      "Pubarquia"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-019",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "Las características sexuales primarias son:",
+    "opciones": [
+      "Los rasgos de personalidad asociados al género",
+      "Los cambios en los órganos directamente implicados en la reproducción",
+      "Los cambios hormonales del hipotálamo",
+      "Los signos anatómicos que distinguen a hombres y mujeres, como el vello"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-020",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "Son características sexuales secundarias:",
+    "opciones": [
+      "La capacidad de reproducción",
+      "Los órganos primarios del sexo",
+      "Los factores externos del desarrollo sexual",
+      "Los signos anatómicos y fisiológicos que distinguen a los seres masculinos y femeninos"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-021",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "La «moratoria adolescente» alude a que:",
+    "opciones": [
+      "Las consecuencias sociales impiden al joven independizarse aunque quiera",
+      "La pubertad se retrasa por factores hormonales",
+      "El adolescente retrasa su identidad por voluntad propia",
+      "El adolescente deja de estudiar temporalmente"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-022",
+    "tema": "Tema 1.1 · Pubertad y adolescencia",
+    "pregunta": "El término VICA describe un entorno:",
+    "opciones": [
+      "Variable, inestable, competitivo y acelerado",
+      "Volátil, incierto, complejo y ambiguo",
+      "Valioso, integrador, colaborativo y abierto",
+      "Virtual, interactivo, creativo y adaptable"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-023",
+    "tema": "Tema 1.2 · Desarrollo cognitivo en la adolescencia",
+    "pregunta": "La poda neuronal (o sináptica) consiste en:",
+    "opciones": [
+      "La pérdida de memoria asociada a la edad",
+      "La creación de nuevas neuronas en la corteza",
+      "El aumento de la mielina en las conexiones",
+      "La eliminación de las conexiones sinápticas que el cerebro no utiliza"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-024",
+    "tema": "Tema 1.2 · Desarrollo cognitivo en la adolescencia",
+    "pregunta": "La poda neuronal comienza en:",
+    "opciones": [
+      "El sistema límbico exclusivamente",
+      "Las partes posteriores del cerebro y avanza hacia los lóbulos prefrontales y temporales",
+      "El cerebelo",
+      "Los lóbulos prefrontales y avanza hacia atrás"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-025",
+    "tema": "Tema 1.2 · Desarrollo cognitivo en la adolescencia",
+    "pregunta": "La poda neuronal se produce en último lugar en:",
+    "opciones": [
+      "El lóbulo occipital",
+      "La parte prefrontal, el área más evolucionada y centro de las funciones ejecutivas",
+      "El sistema límbico",
+      "El hipocampo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-026",
+    "tema": "Tema 1.2 · Desarrollo cognitivo en la adolescencia",
+    "pregunta": "Son funciones ejecutivas importantes:",
+    "opciones": [
+      "El apego y el egocentrismo",
+      "La menarquia y la espermarquia",
+      "El conductismo y el cognitivismo",
+      "El autocontrol, la memoria de trabajo, la planificación y la flexibilidad de pensamiento"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-027",
+    "tema": "Tema 1.2 · Desarrollo cognitivo en la adolescencia",
+    "pregunta": "Según Piaget, el estadio de las operaciones concretas abarca:",
+    "opciones": [
+      "De los 7 a los 11 años",
+      "De los 2 a los 7 años",
+      "De los 12 años en adelante",
+      "De los 0 a los 2 años"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-028",
+    "tema": "Tema 1.2 · Desarrollo cognitivo en la adolescencia",
+    "pregunta": "El estadio sensoriomotor de Piaget abarca:",
+    "opciones": [
+      "De los 0 a los 2 años",
+      "De los 2 a los 7 años",
+      "De los 7 a los 11 años",
+      "De los 12 a los 15 años"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-029",
+    "tema": "Tema 1.2 · Desarrollo cognitivo en la adolescencia",
+    "pregunta": "El estadio preoperatorio (Piaget) se caracteriza por:",
+    "opciones": [
+      "La permanencia del objeto como logro central",
+      "El manejo de hipótesis",
+      "La clasificación y la conservación",
+      "Las primeras representaciones con el lenguaje, sin manejar causalidad, cantidad ni tiempo"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-030",
+    "tema": "Tema 1.2 · Desarrollo cognitivo en la adolescencia",
+    "pregunta": "Las operaciones formales se caracterizan por:",
+    "opciones": [
+      "Manejar solo objetos manipulables",
+      "Tratar con hipótesis además de objetos, más allá de lo real, con comprobaciones sistemáticas",
+      "Aprender únicamente por ensayo y error",
+      "Depender de la permanencia del objeto"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-031",
+    "tema": "Tema 1.2 · Desarrollo cognitivo en la adolescencia",
+    "pregunta": "El pensamiento adolescente incluye, según el tema, el pensamiento:",
+    "opciones": [
+      "Moral, social y afectivo",
+      "Sensoriomotor, preoperatorio y concreto",
+      "Inductivo, deductivo y analógico",
+      "En sí mismo, idealista y científico"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-032",
+    "tema": "Tema 1.2 · Desarrollo cognitivo en la adolescencia",
+    "pregunta": "El «pensamiento idealista» del adolescente es:",
+    "opciones": [
+      "La capacidad de pensar y especular sobre situaciones posibles, más allá de lo real",
+      "El uso de la lógica para resolver problemas",
+      "La tendencia creciente a pensar sobre sí mismo",
+      "La adhesión acrítica a la autoridad"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-033",
+    "tema": "Tema 1.2 · Desarrollo cognitivo en la adolescencia",
+    "pregunta": "El «pensamiento científico» del adolescente es el pensamiento:",
+    "opciones": [
+      "Moralmente convencional",
+      "Egocéntrico y centrado en el yo",
+      "Operacional formal con el uso de la lógica (problema + solución)",
+      "Basado en ensayo y error"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-034",
+    "tema": "Tema 1.2 · Desarrollo cognitivo en la adolescencia",
+    "pregunta": "El razonamiento hipotético-deductivo consiste en:",
+    "opciones": [
+      "Generalizar a partir de observaciones particulares",
+      "Repetir procedimientos aprendidos",
+      "Formular hipótesis y deducir después cuál es la alternativa más indicada",
+      "Resolver problemas al azar"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-035",
+    "tema": "Tema 1.2 · Desarrollo cognitivo en la adolescencia",
+    "pregunta": "El razonamiento inductivo parte de:",
+    "opciones": [
+      "Leyes generales hacia casos particulares",
+      "Hipótesis sin observación previa",
+      "Observaciones particulares para llegar a leyes y conclusiones generales",
+      "La autoridad del docente"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-036",
+    "tema": "Tema 1.2 · Desarrollo cognitivo en la adolescencia",
+    "pregunta": "El razonamiento deductivo parte de:",
+    "opciones": [
+      "Observaciones particulares hacia leyes generales",
+      "La experiencia sensorial",
+      "Leyes o teorías generales hacia casos particulares",
+      "Ensayo y error"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-037",
+    "tema": "Tema 1.2 · Desarrollo cognitivo en la adolescencia",
+    "pregunta": "Según el tema, el razonamiento deductivo se asocia a Platón y el inductivo a:",
+    "opciones": [
+      "Aristóteles",
+      "Bacon",
+      "Sócrates",
+      "Descartes"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-038",
+    "tema": "Tema 1.2 · Desarrollo cognitivo en la adolescencia",
+    "pregunta": "En la comparación entre pensamiento concreto y formal, el pensamiento concreto:",
+    "opciones": [
+      "Utiliza lógica proposicional",
+      "Razona sobre lo posible",
+      "Aísla factores de forma sistemática",
+      "Resuelve problemas al azar y está apegado a la realidad concreta"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-039",
+    "tema": "Tema 1.2 · Desarrollo cognitivo en la adolescencia",
+    "pregunta": "En la comparación entre pensamiento concreto y formal, el pensamiento formal:",
+    "opciones": [
+      "Resuelve problemas planteando hipótesis y razona sobre lo posible",
+      "Utiliza solo datos inmediatos",
+      "Actúa solo sobre los objetos",
+      "Se basa en una lógica de clases"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-040",
+    "tema": "Tema 1.2 · Desarrollo cognitivo en la adolescencia",
+    "pregunta": "El tipo de razonamiento propio del pensamiento concreto es:",
+    "opciones": [
+      "Empírico-inductivo",
+      "Proposicional",
+      "Metacognitivo",
+      "Hipotético-deductivo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-041",
+    "tema": "Tema 1.2 · Desarrollo cognitivo en la adolescencia",
+    "pregunta": "La metacognición consiste en:",
+    "opciones": [
+      "Pensar sobre los propios procesos mentales",
+      "Razonar sobre objetos concretos",
+      "Memorizar contenidos de forma repetitiva",
+      "Regular las emociones ajenas"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-042",
+    "tema": "Tema 1.2 · Desarrollo cognitivo en la adolescencia",
+    "pregunta": "Una consecuencia educativa de la teoría de Piaget es que:",
+    "opciones": [
+      "El desarrollo cognitivo es independiente de la acción",
+      "Ya no necesitan experiencias concretas",
+      "Los adolescentes siguen construyendo su conocimiento a partir de observaciones y experiencias",
+      "Deben recibir una formación solo abstracta"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-043",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "Los cambios físicos, cognitivos y sociales de la adolescencia afectan principalmente a:",
+    "opciones": [
+      "La inteligencia general",
+      "Únicamente a las relaciones familiares",
+      "El autoconcepto y la autoestima",
+      "Solo al rendimiento escolar"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-044",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "La «audiencia imaginaria» se define como:",
+    "opciones": [
+      "La fantasía de invencibilidad",
+      "La necesidad de aprobación del grupo de iguales",
+      "La creencia de que los demás observan y juzgan intensamente al adolescente",
+      "La creencia de que sus experiencias son únicas e incomprensibles"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-045",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "Un adolescente que tarda horas en prepararse para una fiesta porque cree que todos se fijarán en un grano ejemplifica:",
+    "opciones": [
+      "La audiencia imaginaria",
+      "El pensamiento idealista",
+      "La identidad negativa",
+      "La fábula personal"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-046",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "La «fábula personal» se refiere a la tendencia del adolescente a:",
+    "opciones": [
+      "Rechazar toda norma social",
+      "Creer que todos le observan",
+      "Imitar a sus iguales",
+      "Considerar sus experiencias como únicas e incomprensibles para los demás"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-047",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "La fábula de la invencibilidad se relaciona con:",
+    "opciones": [
+      "Las conductas de riesgo del adolescente",
+      "La difusión de la identidad",
+      "El pensamiento hipotético-deductivo",
+      "El estilo parental autoritario"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-048",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "El autoconcepto es:",
+    "opciones": [
+      "El rol social asignado",
+      "La imagen que cada persona tiene de sí misma (lo que pienso)",
+      "La identidad de género",
+      "La evaluación que se hace de uno mismo (lo que siento)"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-049",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "La autoestima es:",
+    "opciones": [
+      "La valoración o evaluación que la persona hace de sí misma (lo que siento)",
+      "La imagen descriptiva que se tiene de uno mismo",
+      "La opinión de los demás sobre el adolescente",
+      "La identidad vocacional"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-050",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "Según Rosenberg, la dimensión que más contribuye a la autoestima global en la adolescencia es:",
+    "opciones": [
+      "La satisfacción con la apariencia física",
+      "El nivel económico familiar",
+      "El rendimiento en matemáticas",
+      "El número de amigos"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-051",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "Una baja autoestima se asocia con:",
+    "opciones": [
+      "Éxito deportivo",
+      "Aceptación del grupo de iguales",
+      "Liderazgo y trabajo duro",
+      "Depresión, ansiedad y bajo rendimiento escolar"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-052",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "En la primera etapa del autoconcepto (adolescencia inicial, 11-13 años):",
+    "opciones": [
+      "Tiene un autoconcepto múltiple pero integrado",
+      "Diversifica rasgos opuestos según el contexto",
+      "Alcanza el pensamiento formal asentado",
+      "El adolescente no detecta las incoherencias de su autoconcepto, aunque las hay"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-053",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "En la adolescencia media-tardía (13-17 años), el autoconcepto se caracteriza por:",
+    "opciones": [
+      "La ausencia de incoherencias",
+      "La diversificación: rasgos a veces opuestos en familia, amigos, instituto o trabajo",
+      "La identidad ya consolidada",
+      "La integración de los distintos «yoes»"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-054",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "En la adultez emergente (18-21 años), el autoconcepto es:",
+    "opciones": [
+      "Incoherente",
+      "Inexistente",
+      "Único y rígido",
+      "Múltiple pero integrado, con distintos «yoes» congruentes"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-055",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "Según Erikson, la tarea evolutiva de la adolescencia (13-21 años) es:",
+    "opciones": [
+      "Intimidad frente a aislamiento",
+      "Laboriosidad frente a inferioridad",
+      "Iniciativa frente a culpa",
+      "Identidad frente a difusión de la identidad"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-056",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "Según Erikson, la etapa de «laboriosidad frente a inferioridad» corresponde a:",
+    "opciones": [
+      "Los 13-21 años",
+      "Los 21-39 años",
+      "Los 0-18 meses",
+      "Los 5-13 años"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-057",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "Según Erikson, la etapa de «intimidad frente a aislamiento» corresponde a:",
+    "opciones": [
+      "Los 40-65 años",
+      "Los 13-21 años",
+      "Los 5-13 años",
+      "Los 21-39 años"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-058",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "El concepto de «crisis» de Erikson se entiende como:",
+    "opciones": [
+      "Una tarea evolutiva propia de la edad y de naturaleza psicológica",
+      "Una enfermedad del desarrollo",
+      "Un conflicto exclusivamente familiar",
+      "Un trastorno de conducta"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-059",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "En la difusión de la identidad (Erikson), «identidad negativa» significa que el adolescente:",
+    "opciones": [
+      "Selecciona una identidad exactamente opuesta a la preferida por los padres u otros adultos importantes",
+      "Carece de planes de futuro",
+      "Evita las relaciones íntimas",
+      "No puede concentrarse en el estudio"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-060",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "En la difusión de la identidad (Erikson), la «difusión de la perspectiva temporal» supone que el adolescente:",
+    "opciones": [
+      "Se implica en exceso en las relaciones",
+      "Adopta la identidad de sus padres",
+      "Siente como imposible hacer planes de futuro o conservar el sentido del tiempo",
+      "Selecciona una identidad opuesta"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-061",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "Marcia (1991) clasifica la identidad adolescente siguiendo las dimensiones de:",
+    "opciones": [
+      "Crisis y compromiso",
+      "Sexo y género",
+      "Autoconcepto y autoestima",
+      "Exigencia y sensibilidad"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-062",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "Según Marcia, la «moratoria» es un estatus de identidad caracterizado por:",
+    "opciones": [
+      "Ni crisis ni compromiso",
+      "Crisis sin compromiso todavía",
+      "Compromiso sin crisis",
+      "Crisis que conduce al compromiso"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-063",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "Según Marcia, la «difusión de identidad» se caracteriza por:",
+    "opciones": [
+      "Compromiso sin crisis",
+      "Crisis seguida de compromiso",
+      "Ausencia de crisis y de compromiso, con apatía e indiferencia",
+      "Crisis sin compromiso"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-064",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "Según Marcia, la «exclusión» (identidad prematura) se caracteriza por:",
+    "opciones": [
+      "Compromiso tras explorar alternativas",
+      "Compromiso sin crisis, asumiendo compromisos sugeridos por otros",
+      "Crisis sin compromiso",
+      "Ausencia de crisis y de compromiso"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-065",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "Según Marcia, el «logro de identidad» se caracteriza por:",
+    "opciones": [
+      "Exploración sin llegar a decidir",
+      "Compromiso sin exploración previa",
+      "Apatía e indiferencia",
+      "Compromiso con las elecciones hechas tras una crisis o exploración de alternativas"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-066",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "La diferencia entre sexo y género es que:",
+    "opciones": [
+      "Ambos son exclusivamente culturales",
+      "El sexo es biológico y anatómico y el género se construye socialmente",
+      "Ambos son exclusivamente biológicos",
+      "El género es biológico y el sexo social"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-067",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "El género se construye a través de:",
+    "opciones": [
+      "La herencia genética",
+      "Las interacciones de la vida cotidiana y la socialización, dentro de un contexto y una estructura social",
+      "La maduración cerebral",
+      "Las hormonas sexuales"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-068",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "En la adolescencia, en relación con la identidad de género, se produce:",
+    "opciones": [
+      "Una intensificación del cumplimiento de los roles de género asignados por el entorno",
+      "Un abandono de los estereotipos de género",
+      "Una independencia total del entorno",
+      "Una desaparición de los prejuicios"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-069",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "Son factores internos del desarrollo sexual adolescente:",
+    "opciones": [
+      "Las normas culturales",
+      "La pubertad, el estallido hormonal y la maduración biológica",
+      "Los medios de comunicación",
+      "La sociedad, la familia y los iguales"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-070",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "Son factores externos del desarrollo sexual adolescente:",
+    "opciones": [
+      "La maduración biológica",
+      "La sociedad, la familia y el grupo de iguales",
+      "La pubertad",
+      "El estallido hormonal"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-071",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "Entre los factores externos del desarrollo sexual, la fe religiosa suele:",
+    "opciones": [
+      "No tener ninguna influencia",
+      "Favorecer las conductas de riesgo",
+      "Retrasar la actividad sexual",
+      "Adelantar la actividad sexual"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-072",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "Diana Baumrind define los estilos parentales según dos dimensiones:",
+    "opciones": [
+      "Rendimiento y disciplina",
+      "Edad y sexo del hijo",
+      "Exigencia (control) y sensibilidad (afecto)",
+      "Autonomía y dependencia"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-073",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "El estilo parental democrático (con autoridad) combina:",
+    "opciones": [
+      "Alta exigencia y baja sensibilidad",
+      "Alta exigencia y alta sensibilidad",
+      "Baja exigencia y baja sensibilidad",
+      "Baja exigencia y alta sensibilidad"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-074",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "El estilo parental autoritario combina:",
+    "opciones": [
+      "Baja exigencia y baja sensibilidad",
+      "Baja exigencia y alta sensibilidad",
+      "Alta exigencia y alta sensibilidad",
+      "Alta exigencia y baja sensibilidad"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-075",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "El estilo parental indulgente combina:",
+    "opciones": [
+      "Baja exigencia y baja sensibilidad",
+      "Alta exigencia y baja sensibilidad",
+      "Baja exigencia y alta sensibilidad",
+      "Alta exigencia y alta sensibilidad"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-076",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "El estilo parental negligente (indiferente) combina:",
+    "opciones": [
+      "Baja exigencia y baja sensibilidad",
+      "Alta exigencia y baja sensibilidad",
+      "Baja exigencia y alta sensibilidad",
+      "Alta exigencia y alta sensibilidad"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-077",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "Los hijos de padres con estilo democrático suelen:",
+    "opciones": [
+      "Ser impulsivos y de alto riesgo",
+      "Mostrar falta de autocontrol",
+      "Tener confianza en sí mismos y ser socialmente responsables, con mejor autoestima y evitación del riesgo",
+      "Ser inmaduros e irresponsables"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-078",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "Los hijos de padres con estilo negligente suelen:",
+    "opciones": [
+      "Ser socialmente más competentes",
+      "Tener mayor autoestima",
+      "Ser más creativos y seguros",
+      "Ser más impulsivos y implicarse en conductas de alto riesgo a edades tempranas"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-079",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "Los hijos de padres con estilo indulgente suelen:",
+    "opciones": [
+      "Tener alta autoestima y responsabilidad",
+      "Mostrar falta de autocontrol y ser más inmaduros e irresponsables",
+      "Ser más independientes",
+      "Evitar el riesgo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-080",
+    "tema": "Tema 1.3 · Desarrollo emocional y de la personalidad",
+    "pregunta": "El «vacío intergeneracional» es:",
+    "opciones": [
+      "La falta de comunicación entre profesorado y alumnado",
+      "El conflicto entre el progenitor y el adolescente, un estereotipo negativo de la adolescencia",
+      "La diferencia de edad entre hermanos",
+      "La brecha entre los sexos"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-081",
+    "tema": "Tema 1.4 · Desarrollo social y moral",
+    "pregunta": "La cognición social es:",
+    "opciones": [
+      "La manera en que los individuos conceptualizan el mundo social y razonan sobre él",
+      "El razonamiento lógico y abstracto",
+      "El desarrollo del lenguaje",
+      "La memoria de trabajo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-082",
+    "tema": "Tema 1.4 · Desarrollo social y moral",
+    "pregunta": "Según las últimas investigaciones sobre cognición social, considerar el punto de vista del otro es propio de:",
+    "opciones": [
+      "La infancia temprana",
+      "La edad adulta únicamente",
+      "La adolescencia inicial",
+      "La adolescencia mediana y tardía"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-083",
+    "tema": "Tema 1.4 · Desarrollo social y moral",
+    "pregunta": "Kohlberg organiza el desarrollo moral en:",
+    "opciones": [
+      "Dos niveles y cuatro etapas",
+      "Tres niveles (preconvencional, convencional y posconvencional) y seis etapas",
+      "Cuatro niveles y seis etapas",
+      "Tres niveles y nueve etapas"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-084",
+    "tema": "Tema 1.4 · Desarrollo social y moral",
+    "pregunta": "El nivel preconvencional de Kohlberg incluye las etapas:",
+    "opciones": [
+      "5 y 6",
+      "3 y 4",
+      "1 y 2",
+      "2 y 3"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-085",
+    "tema": "Tema 1.4 · Desarrollo social y moral",
+    "pregunta": "El nivel convencional de Kohlberg incluye las etapas:",
+    "opciones": [
+      "4 y 5",
+      "1 y 2",
+      "3 y 4",
+      "5 y 6"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-086",
+    "tema": "Tema 1.4 · Desarrollo social y moral",
+    "pregunta": "El nivel posconvencional de Kohlberg incluye las etapas:",
+    "opciones": [
+      "3 y 4",
+      "5 y 6",
+      "1 y 2",
+      "4 y 5"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-087",
+    "tema": "Tema 1.4 · Desarrollo social y moral",
+    "pregunta": "En la etapa 1 de Kohlberg (moralidad heterónoma) predomina:",
+    "opciones": [
+      "El contrato social",
+      "La conformidad con las expectativas interpersonales",
+      "La orientación al castigo y la obediencia",
+      "El intercambio de favores"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-088",
+    "tema": "Tema 1.4 · Desarrollo social y moral",
+    "pregunta": "En la etapa 2 de Kohlberg (individualismo, propósito instrumental e intercambio):",
+    "opciones": [
+      "Se mantiene el orden social",
+      "Se evita el castigo por miedo",
+      "Se siguen principios éticos universales",
+      "Se actúa por interés propio y por lo que los demás pueden hacer por uno"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-089",
+    "tema": "Tema 1.4 · Desarrollo social y moral",
+    "pregunta": "En la etapa 3 de Kohlberg (expectativas interpersonales) la buena conducta es:",
+    "opciones": [
+      "La que agrada y aprueban los demás",
+      "La que defiende principios universales",
+      "La que cumple la ley siempre",
+      "La que evita el castigo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-090",
+    "tema": "Tema 1.4 · Desarrollo social y moral",
+    "pregunta": "Según Kohlberg, la mayoría de los adolescentes razonan según la etapa:",
+    "opciones": [
+      "1",
+      "6",
+      "3",
+      "5"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-091",
+    "tema": "Tema 1.4 · Desarrollo social y moral",
+    "pregunta": "En la etapa 4 de Kohlberg (moralidad de los sistemas sociales), la buena conducta consiste en:",
+    "opciones": [
+      "Obtener recompensas",
+      "Agradar al grupo de amigos",
+      "Seguir la propia conciencia ante cualquier ley",
+      "Cumplir el deber, respetar la autoridad y la ley y mantener el orden social"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-092",
+    "tema": "Tema 1.4 · Desarrollo social y moral",
+    "pregunta": "En la etapa 5 de Kohlberg (contrato social y derechos individuales):",
+    "opciones": [
+      "Se actúa solo por el propio interés",
+      "Se valoran los acuerdos sociales y el mayor bien para el mayor número, con perspectiva relativista",
+      "Se sigue la conciencia aunque implique riesgos personales",
+      "Se obedece para evitar el castigo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-093",
+    "tema": "Tema 1.4 · Desarrollo social y moral",
+    "pregunta": "En la etapa 6 de Kohlberg (principios éticos universales), ante un conflicto entre ley y conciencia, la persona:",
+    "opciones": [
+      "Sigue la opinión del grupo",
+      "Evita decidir",
+      "Sigue su conciencia, aunque ello implique riesgos personales",
+      "Sigue siempre la ley"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-094",
+    "tema": "Tema 1.4 · Desarrollo social y moral",
+    "pregunta": "Según Colby et al. (1983), la etapa 5 de Kohlberg no aparecía hasta los:",
+    "opciones": [
+      "15-16 años, en un 50 %",
+      "20-22 años, y no superaba el 10 % de los individuos",
+      "30 años, en el 80 %",
+      "12-14 años, en la mayoría"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-095",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "La psicología de la educación es:",
+    "opciones": [
+      "La rama de la psicología que estudia cómo se produce el aprendizaje humano en los entornos educativos",
+      "La ciencia de la organización escolar",
+      "La rama que estudia solo el desarrollo infantil",
+      "Una disciplina que trata exclusivamente los trastornos de aprendizaje"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-096",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "El objeto de estudio de la psicología de la educación son:",
+    "opciones": [
+      "La organización de los centros",
+      "La legislación educativa",
+      "Los procesos de enseñanza-aprendizaje",
+      "Los trastornos psicológicos del alumnado"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-097",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "La psicología de la educación pretende:",
+    "opciones": [
+      "Comprender y mejorar los procesos de enseñanza y de aprendizaje",
+      "Diagnosticar clínicamente a todo el alumnado",
+      "Sustituir la labor del profesorado",
+      "Diseñar la normativa curricular"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-098",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "Un paradigma es:",
+    "opciones": [
+      "Un tipo de instrumento de medida",
+      "Un conjunto de supuestos compartidos por una comunidad científica sobre qué es un problema y cómo investigarlo",
+      "Una teoría individual no compartida",
+      "Una técnica de evaluación"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-099",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "El paradigma conductista concibe al alumno como:",
+    "opciones": [
+      "Un organismo que desarrolla procesos cognitivos y afectivos",
+      "Un constructor del conocimiento en un escenario de aprendizaje",
+      "Un ordenador que procesa información",
+      "Una máquina que aprende conductas observables, medibles y cuantificables"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-100",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "El paradigma del procesamiento de la información asimila la mente:",
+    "opciones": [
+      "A una máquina de conductas",
+      "A un organismo afectivo",
+      "A un escenario social",
+      "Al funcionamiento de un ordenador"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-101",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "El paradigma constructivista concibe al alumno como un organismo que:",
+    "opciones": [
+      "Funciona como un ordenador",
+      "Desarrolla procesos cognitivos y afectivos en un escenario de aprendizaje",
+      "Solo recibe información",
+      "Aprende conductas observables y medibles"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-102",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "Las tres áreas de aprendizaje (cognitiva, psicomotora y afectivo-motivacional) corresponden respectivamente a:",
+    "opciones": [
+      "Saber ser, saber y saber hacer",
+      "Saber hacer, querer hacer y saber",
+      "Querer hacer, saber y saber hacer",
+      "Saber, saber hacer y querer hacer"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-103",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "La definición tradicional conductista del aprendizaje es:",
+    "opciones": [
+      "Un cambio por factores innatos",
+      "Un cambio por estados transitorios como la fatiga",
+      "Un cambio debido a la maduración",
+      "Un cambio relativamente permanente en la conducta debido a la práctica reforzada"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-104",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "Los cambios debidos al aprendizaje se diferencian de:",
+    "opciones": [
+      "Los cambios en los conocimientos y habilidades",
+      "Los cambios relativamente permanentes",
+      "Los cambios por factores innatos, por maduración y por estados transitorios",
+      "Los cambios por la práctica reforzada"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-105",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "Entre los cinco perfiles de la profesión docente se encuentra:",
+    "opciones": [
+      "El profesorado burocrático",
+      "El profesorado sancionador",
+      "El profesorado dominante",
+      "El profesorado guía (prevención; mediador)"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-106",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "El perfil docente «organizador» se refiere a:",
+    "opciones": [
+      "La educación en valores",
+      "La toma de decisiones",
+      "La observación significativa y afectiva",
+      "La organización espacio-temporal"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-107",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "El perfil docente «orientador» se caracteriza por ser:",
+    "opciones": [
+      "Un experto en toma de decisiones",
+      "Un observador significativo y afectivo",
+      "Un organizador espacio-temporal",
+      "Un modelo de valores"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-108",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "El perfil docente «modelo» se relaciona con:",
+    "opciones": [
+      "La educación en valores",
+      "La prevención de conflictos",
+      "La organización del espacio",
+      "La toma de decisiones"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-109",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "Pertenece al perfil positivo de la profesión docente:",
+    "opciones": [
+      "La resiliencia, el liderazgo, la motivación y la creatividad",
+      "La ansiedad y el nerviosismo",
+      "La desmotivación y la frustración",
+      "El estrés y el síndrome de burnout"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-110",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "Pertenece al perfil negativo de la profesión docente:",
+    "opciones": [
+      "El liderazgo",
+      "El estrés, el síndrome de burnout y la frustración",
+      "La gestión proactiva",
+      "La resiliencia"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-111",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "La «multidimensionalidad» como dificultad de la enseñanza significa que:",
+    "opciones": [
+      "Hay que tomar decisiones rápidas",
+      "Ocurren muchas situaciones al mismo tiempo",
+      "Hay que considerar los procesos de enseñanza-aprendizaje desde varios ámbitos: académico, afectivo, social y moral",
+      "Es difícil predecir el efecto de las acciones"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-112",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "La «simultaneidad» como dificultad de la enseñanza consiste en:",
+    "opciones": [
+      "La imprevisibilidad de los resultados",
+      "Un contexto dinámico donde suceden a la vez multitud de situaciones diferentes",
+      "La necesidad de decidir con rapidez",
+      "La heterogeneidad del alumnado"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-113",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "La «inmediatez» como dificultad de la enseñanza exige:",
+    "opciones": [
+      "Atender a muchos alumnos distintos",
+      "Tomar decisiones y actuar de forma efectiva y eficiente",
+      "Predecir los efectos de las acciones",
+      "Considerar varios ámbitos"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-114",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "La «incertidumbre» como dificultad de la enseñanza se refiere a:",
+    "opciones": [
+      "La dificultad de predecir el efecto de las acciones por la complejidad de la interacción profesorado-alumnado",
+      "La inclusión de contenidos actitudinales",
+      "La variedad del alumnado",
+      "La rapidez en la toma de decisiones"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-115",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "La «variedad del alumnado» como dificultad de la enseñanza implica:",
+    "opciones": [
+      "Rapidez de decisiones",
+      "Imprevisibilidad",
+      "Interdisciplinariedad",
+      "Heterogeneidad y atención a la diversidad"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-116",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "En las variables del profesorado, «CREER» se refiere a:",
+    "opciones": [
+      "Los conocimientos y el dominio de la materia",
+      "Las teorías implícitas, los prejuicios y los estereotipos",
+      "El comportamiento en el aula",
+      "La motivación"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-117",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "En las variables del profesorado, «QUERER» se refiere a:",
+    "opciones": [
+      "Las teorías implícitas",
+      "La competencia y las aptitudes",
+      "La motivación",
+      "La personalidad y el estilo de enseñanza"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-118",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "En las variables del profesorado, «SABER» se refiere a:",
+    "opciones": [
+      "Las teorías implícitas",
+      "Los conocimientos y el dominio de la materia",
+      "La motivación",
+      "La competencia e inteligencia"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-119",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "En las variables del profesorado, «HACER» se refiere a:",
+    "opciones": [
+      "La motivación",
+      "Los conocimientos",
+      "El comportamiento en el aula, las metodologías y la gestión",
+      "Las teorías implícitas y prejuicios"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-120",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "En las variables del profesorado, «SER» se refiere a:",
+    "opciones": [
+      "Los estilos de enseñanza y la personalidad",
+      "El dominio de la materia",
+      "La motivación",
+      "Los estereotipos"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-121",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "En las variables del profesorado, «PODER» se refiere a:",
+    "opciones": [
+      "La competencia, la capacidad, la inteligencia y las aptitudes",
+      "Los prejuicios",
+      "El estilo de enseñanza",
+      "La motivación"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-122",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "Entre las características personales de los profesores efectivos están:",
+    "opciones": [
+      "La neutralidad emocional",
+      "La rigidez y la autoridad",
+      "El control externo y la desmotivación",
+      "La actitud positiva, la empatía, las habilidades sociales, la autoeficacia y el control interno"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-123",
+    "tema": "Tema 2.1 · Psicología de la educación",
+    "pregunta": "El efecto Pigmalión se relaciona con:",
+    "opciones": [
+      "La memoria de trabajo",
+      "El estilo de apego",
+      "La motivación intrínseca del alumnado",
+      "Las expectativas del profesorado sobre el alumnado"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-124",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "En el experimento de Pavlov, el sonido del diapasón antes del condicionamiento es un estímulo:",
+    "opciones": [
+      "Incondicionado",
+      "Neutro",
+      "Condicionado",
+      "Aversivo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-125",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "En el experimento de Pavlov, la comida es un estímulo:",
+    "opciones": [
+      "Incondicionado",
+      "Condicionado",
+      "Neutro",
+      "Discriminativo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-126",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "En el condicionamiento clásico, la salivación ante el sonido del diapasón tras el condicionamiento es la respuesta:",
+    "opciones": [
+      "Incondicionada",
+      "Neutra",
+      "Refleja innata",
+      "Condicionada"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-127",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "En el condicionamiento clásico, el estímulo que provoca naturalmente una respuesta es:",
+    "opciones": [
+      "El estímulo condicionado",
+      "El estímulo neutro",
+      "El refuerzo",
+      "El estímulo incondicionado"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-128",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "Un alumno se confunde al hablar en público, los compañeros se ríen y, desde entonces, sentir que debe hablar en público le provoca ansiedad. Aquí, hablar en público es ahora:",
+    "opciones": [
+      "El estímulo incondicionado",
+      "El refuerzo negativo",
+      "El estímulo condicionado",
+      "La respuesta incondicionada"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-129",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "En ese mismo caso, las risas y burlas de los compañeros son:",
+    "opciones": [
+      "Un estímulo neutro",
+      "El estímulo condicionado",
+      "El estímulo incondicionado",
+      "La respuesta condicionada"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-130",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "El condicionamiento clásico trabaja con respuestas:",
+    "opciones": [
+      "Siempre reforzadas",
+      "Involuntarias (reflejas)",
+      "Voluntarias",
+      "Siempre complejas"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-131",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "El condicionamiento operante trabaja con conductas:",
+    "opciones": [
+      "Voluntarias, que se mantienen o no según sus consecuencias",
+      "Reflejas e innatas",
+      "Siempre involuntarias",
+      "Únicamente verbales"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-132",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "El refuerzo positivo (R+) consiste en:",
+    "opciones": [
+      "Aplicar un estímulo aversivo para reducir la conducta",
+      "Retirar un reforzador para reducir la conducta",
+      "Eliminar un estímulo aversivo para aumentar la conducta",
+      "Aplicar un estímulo agradable (reforzador) tras la conducta para aumentar su probabilidad"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-133",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "El refuerzo negativo (R-) consiste en:",
+    "opciones": [
+      "Aplicar un castigo",
+      "Eliminar un estímulo aversivo tras la conducta para aumentar su probabilidad",
+      "Retirar un privilegio",
+      "Aplicar un elogio"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-134",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "El castigo positivo (C+) consiste en:",
+    "opciones": [
+      "Retirar un estímulo agradable",
+      "Eliminar una tarea desagradable",
+      "Aplicar un estímulo aversivo tras la conducta para reducir su probabilidad",
+      "Aplicar un elogio"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-135",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "El castigo negativo (C-) consiste en:",
+    "opciones": [
+      "Aplicar un estímulo aversivo",
+      "Aplicar una recompensa",
+      "Retirar un estímulo o reforzador positivo tras la conducta para reducir su probabilidad",
+      "Retirar un estímulo desagradable"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-136",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "Un profesor felicita públicamente a un alumno por su trabajo para que lo repita. Es un ejemplo de:",
+    "opciones": [
+      "Castigo positivo",
+      "Castigo negativo",
+      "Refuerzo negativo",
+      "Refuerzo positivo"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-137",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "Ante una buena actitud en clase, el profesor quita una pregunta de la prueba final. Es un ejemplo de:",
+    "opciones": [
+      "Castigo positivo",
+      "Refuerzo positivo",
+      "Refuerzo negativo",
+      "Castigo negativo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-138",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "Ante una conducta inadecuada, el profesor pone una mala nota o aumenta los deberes. Es un ejemplo de:",
+    "opciones": [
+      "Refuerzo negativo",
+      "Castigo positivo",
+      "Castigo negativo",
+      "Refuerzo positivo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-139",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "Ante una conducta inapropiada, los alumnos se quedan sin recreo. Es un ejemplo de:",
+    "opciones": [
+      "Castigo positivo",
+      "Refuerzo positivo",
+      "Refuerzo negativo",
+      "Castigo negativo"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-140",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "Según el tema, el castigo:",
+    "opciones": [
+      "Es la técnica más eficaz y de primera elección",
+      "Enseña conductas alternativas por sí mismo",
+      "Tiene los mismos efectos que el refuerzo",
+      "No es una técnica de aprendizaje: solo elimina conductas"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-141",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "Una limitación del castigo es que:",
+    "opciones": [
+      "Funciona de forma permanente sin necesidad del castigador",
+      "Nunca genera rechazo",
+      "Siempre mejora la relación con el alumnado",
+      "Solo funciona mientras está presente el castigador"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-142",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "Entre los efectos secundarios del castigo se encuentran:",
+    "opciones": [
+      "La agresividad, la inseguridad y que puede convertirse en refuerzo",
+      "La mejora de la autoestima",
+      "La confianza en el docente",
+      "El aumento de la motivación intrínseca"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-143",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "Al aplicar un castigo se recomienda:",
+    "opciones": [
+      "Mantener la calma, sin gritar ni mostrar enfado, y que sea proporcional a la conducta",
+      "Elegir un castigo que dañe la relación",
+      "Utilizarlo siempre como primera medida",
+      "Aplicarlo con enfado para que sea eficaz"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-144",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "El castigo debe emplearse:",
+    "opciones": [
+      "Solo cuando han fallado las técnicas anteriores",
+      "Nunca en ninguna circunstancia",
+      "Solo con el alumnado nuevo",
+      "Siempre como primera técnica"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-145",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "Cuando la conducta no deseada está desapareciendo, se recomienda:",
+    "opciones": [
+      "Ignorar al alumno",
+      "Cambiar de técnica a la extinción total",
+      "Aumentar el castigo",
+      "Reforzar, guiando al alumno hacia otras conductas positivas"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-146",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "El principio de Premack establece que:",
+    "opciones": [
+      "Toda conducta se refuerza con una recompensa material",
+      "Una conducta de baja probabilidad refuerza una de alta",
+      "Las conductas solo se modifican con castigo",
+      "Una conducta de alta probabilidad puede reforzar una conducta de baja probabilidad"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-147",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "Según el principio de Premack, si estudiar despierta poco interés y tras hacerlo se permite jugar a un videojuego:",
+    "opciones": [
+      "No tendrá efecto",
+      "Disminuirá la conducta de estudiar",
+      "Aumentará la probabilidad de repetir la conducta de estudiar",
+      "Se extinguirá el videojuego"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-148",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "Un programa de refuerzo de «razón fija» refuerza la conducta:",
+    "opciones": [
+      "Tras un intervalo de tiempo variable",
+      "Tras un número variable de respuestas",
+      "Tras un intervalo de tiempo fijo",
+      "Tras un número fijo de respuestas"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-149",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "Un programa de refuerzo de «intervalo fijo» refuerza la conducta:",
+    "opciones": [
+      "Tras un periodo de tiempo fijo",
+      "Tras un número fijo de respuestas",
+      "Tras un periodo de tiempo impredecible",
+      "Tras un número variable de respuestas"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-150",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "Un programa de refuerzo de «razón variable» refuerza la conducta:",
+    "opciones": [
+      "Tras un número fijo de respuestas",
+      "Tras un número variable e impredecible de respuestas",
+      "Siempre que aparece la conducta",
+      "Tras un tiempo fijo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-151",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "En el cognitivismo social se incluyen las teorías de:",
+    "opciones": [
+      "Pavlov y Skinner",
+      "Bandura y Vygotsky",
+      "Piaget y Kohlberg",
+      "Bruner y Ausubel"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-152",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "En el constructivismo se incluyen las teorías de:",
+    "opciones": [
+      "Bruner y Ausubel",
+      "Pavlov y Watson",
+      "Skinner y Thorndike",
+      "Bandura y Vygotsky"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-153",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "La zona de desarrollo próximo (ZDP) de Vygotsky es:",
+    "opciones": [
+      "Lo que el alumno ya domina de forma autónoma",
+      "Lo que el alumno nunca podrá aprender",
+      "El nivel máximo de desarrollo del tutor",
+      "La brecha entre lo que el alumno hace por sí solo y lo que podría hacer con la ayuda de un tutor"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-154",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "En el modelo de Vygotsky, el nivel «real» de desarrollo es:",
+    "opciones": [
+      "El nivel que nunca alcanzará",
+      "Lo que podría hacer con ayuda",
+      "El nivel del tutor",
+      "Lo que el alumno es capaz de hacer por sí solo"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-155",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "Un docente que propone tareas ligeramente por encima de lo que el alumno hace solo y le presta apoyo para resolverlas está trabajando en:",
+    "opciones": [
+      "La zona de desarrollo real",
+      "El nivel del tutor únicamente",
+      "La zona de desarrollo próximo",
+      "El aprendizaje por condicionamiento"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-156",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "La metáfora del «andamiaje» (Bruner) significa que:",
+    "opciones": [
+      "El apoyo se mantiene siempre constante",
+      "El docente transmite todo el contenido",
+      "El alumno aprende sin ninguna guía",
+      "El docente guía y facilita el aprendizaje y retira progresivamente la ayuda a medida que el conocimiento se construye"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-157",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "El aprendizaje por descubrimiento de Bruner se asocia con el rol docente de:",
+    "opciones": [
+      "Transmisor de conocimientos",
+      "Guía y facilitador del proceso de construcción del conocimiento",
+      "Observador pasivo",
+      "Evaluador final"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-158",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "La teoría del aprendizaje significativo es de:",
+    "opciones": [
+      "Skinner",
+      "Bruner",
+      "Ausubel",
+      "Bandura"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-159",
+    "tema": "Tema 2.2 · Teorías del aprendizaje",
+    "pregunta": "La teoría del aprendizaje social, basada en la observación e imitación de modelos, es de:",
+    "opciones": [
+      "Ausubel",
+      "Piaget",
+      "Bandura",
+      "Pavlov"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-160",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "Según el modelo del déficit, el problema de la educación especial se sitúa en:",
+    "opciones": [
+      "El currículo",
+      "La interacción sujeto-contexto",
+      "La persona",
+      "El centro escolar"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-161",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "Según el modelo de la diversidad, el problema se sitúa en:",
+    "opciones": [
+      "La interacción entre el sujeto y el contexto",
+      "La etiqueta diagnóstica",
+      "La persona exclusivamente",
+      "La familia"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-162",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "El modelo del déficit se caracteriza por un enfoque:",
+    "opciones": [
+      "Comprensivo y flexible",
+      "Centrado en los recursos para todos",
+      "Clínico y un currículo cerrado",
+      "Educativo-ecológico y un currículo abierto"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-163",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "El modelo de la diversidad se caracteriza por un enfoque:",
+    "opciones": [
+      "Basado en la etiqueta diagnóstica",
+      "Educativo-ecológico y un currículo abierto",
+      "Centrado exclusivamente en el déficit",
+      "Clínico y un currículo cerrado"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-164",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "En el modelo del déficit, la intervención depende de:",
+    "opciones": [
+      "Los recursos para todos",
+      "El contexto",
+      "El currículo",
+      "La etiqueta diagnóstica"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-165",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "En el modelo de la diversidad, la educación especial se imparte:",
+    "opciones": [
+      "Solo en centros específicos",
+      "Fuera del sistema educativo ordinario",
+      "En grupos homogéneos",
+      "En el entorno menos restrictivo posible"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-166",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "El modelo del déficit afecta, según se estima, a:",
+    "opciones": [
+      "El 10-15 % del alumnado",
+      "El 50 % del alumnado",
+      "El 2-5 % del alumnado",
+      "El 25-30 % del alumnado"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-167",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "El modelo de la diversidad afecta, según se estima, a:",
+    "opciones": [
+      "El 1 % del alumnado",
+      "Todo el alumnado sin excepción",
+      "El 2-5 % del alumnado",
+      "El 25-30 % del alumnado"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-168",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "Se considera alumnado con NEE el que presenta necesidades derivadas de:",
+    "opciones": [
+      "Altas capacidades intelectuales",
+      "Discapacidad física, intelectual o sensorial, y trastornos graves de conducta o de la comunicación y del lenguaje",
+      "Incorporación tardía al sistema",
+      "Dificultades leves de atención"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-169",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "Según la LOMLOE (art. 71), los tipos de ACNEAE son:",
+    "opciones": [
+      "Tres: NEE, altas capacidades e incorporación tardía",
+      "Cinco, sin incluir los ACNEE",
+      "Ocho, entre ellos los ACNEE",
+      "Dos: NEE y dificultades de aprendizaje"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-170",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "Entre las categorías de ACNEAE se encuentran:",
+    "opciones": [
+      "Solo la discapacidad",
+      "Las altas capacidades intelectuales, el retraso madurativo y el trastorno de atención o aprendizaje",
+      "Únicamente el alumnado extranjero",
+      "Solo las dificultades de conducta"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-171",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "Los ACNEE:",
+    "opciones": [
+      "Son distintos e independientes de los ACNEAE",
+      "No pueden recibir adaptaciones curriculares",
+      "No requieren informe psicopedagógico",
+      "Forman parte de los ACNEAE, con informe psicopedagógico y dictamen de escolarización"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-172",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "Las ACIS son:",
+    "opciones": [
+      "Adaptaciones curriculares individualizadas significativas, en las que se modifican elementos del currículo",
+      "Adaptaciones solo de acceso",
+      "Medidas ordinarias de aula",
+      "Programas de refuerzo generales"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-173",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "Los ACNEAE:",
+    "opciones": [
+      "Se escolarizan en centros específicos",
+      "Requieren una atención educativa diferente a la ordinaria e informe de evaluación psicopedagógica, y se escolarizan en centros ordinarios",
+      "Necesitan siempre adaptaciones curriculares significativas",
+      "Requieren siempre dictamen de escolarización"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-174",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "El dictamen de escolarización lo elabora:",
+    "opciones": [
+      "La familia",
+      "El tutor del grupo en solitario",
+      "El director del centro",
+      "El orientador/a, con la colaboración posible del PTSC"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-175",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "El dictamen de escolarización:",
+    "opciones": [
+      "Se emite para todo el alumnado",
+      "Es un documento revisable que puede modificarse a lo largo de la escolarización",
+      "Lo elabora la familia",
+      "Es permanente e inmodificable"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "psi-imp-176",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "Una vez elaborado el dictamen de escolarización, los padres o tutores legales deben:",
+    "opciones": [
+      "Ejecutarlo sin firmar",
+      "Aprobarlo en el Consejo Escolar",
+      "Firmar su acuerdo o desacuerdo con la propuesta de escolarización",
+      "Elaborarlo de nuevo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "psi-imp-177",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "El dictamen de escolarización recoge:",
+    "opciones": [
+      "El presupuesto del centro",
+      "Las calificaciones del alumno",
+      "Las normas de convivencia",
+      "Las medidas más adecuadas, los recursos extraordinarios, las orientaciones para adaptar el currículo y la modalidad de escolarización recomendada"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-178",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "El dictamen de escolarización se elabora exclusivamente para:",
+    "opciones": [
+      "El alumnado de incorporación tardía",
+      "El alumnado de altas capacidades",
+      "Todo el alumnado ACNEAE",
+      "El alumnado con NEE"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-179",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "Los ACNEE pueden recibir apoyo de:",
+    "opciones": [
+      "Solo el tutor",
+      "El departamento de coordinación didáctica",
+      "Solo la dirección",
+      "Maestros de Pedagogía Terapéutica (PT), de Audición y Lenguaje (AL) y auxiliares técnicos educativos (ATE)"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "psi-imp-180",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "Las modalidades de escolarización de los ACNEE incluyen:",
+    "opciones": [
+      "Centros ordinarios, centros específicos de Educación Especial, aulas específicas y escolarización combinada",
+      "Solo centros específicos",
+      "Únicamente educación a distancia",
+      "Solo centros ordinarios"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "psi-imp-181",
+    "tema": "Tema 3 · Necesidades educativas especiales",
+    "pregunta": "En el informe de evaluación psicopedagógica de un ACNEE, la «propuesta de intervención educativa» incluye:",
+    "opciones": [
+      "Únicamente las calificaciones",
+      "Exclusivamente medidas disciplinarias",
+      "Solo el diagnóstico clínico",
+      "Adaptaciones curriculares significativas o no significativas, apoyos especializados y coordinación con la familia"
+    ],
+    "correcta": 3
+  }
+]

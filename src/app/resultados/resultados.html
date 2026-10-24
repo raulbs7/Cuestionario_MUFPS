@@ -1,0 +1,85 @@
+<div class="results-page" [attr.data-subject]="asignaturaId()">
+  <div class="results">
+    <div class="results-head">
+      <div>
+        <a routerLink="/panel" class="back-link" style="margin-bottom: 10px">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M15 18l-6-6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          Volver al panel
+        </a>
+        <h1>Resultados e historial</h1>
+      </div>
+      <div class="tabs" role="group" aria-label="Asignatura">
+        @for (a of asignaturas; track a.id) {
+          <button type="button" class="tab" [class.active]="a.id === asignaturaId()" (click)="elegirAsignatura(a.id)">
+            {{ a.nombre }}
+          </button>
+        }
+      </div>
+    </div>
+
+    @if (ultimo(); as u) {
+      <div class="card summary">
+        <div>
+          <div class="muted" style="font-size: 13px">Último examen · {{ u.fecha | date: 'd MMM y' }}</div>
+          <div class="summary-fraction">{{ u.aciertos }} / {{ u.totalPreguntas }}</div>
+          <div class="muted" style="font-size: 14px">{{ porcentaje() }}% de aciertos</div>
+        </div>
+        <div class="bar" role="progressbar" [attr.aria-valuenow]="porcentaje()" aria-valuemin="0" aria-valuemax="100">
+          <div [style.width.%]="porcentaje()"></div>
+        </div>
+      </div>
+
+      <section>
+        <h2 class="section-title">Corrección del último examen</h2>
+        <div class="card list">
+          @for (l of desglose(); track $index) {
+            <div class="breakdown-item">
+              <span class="mark" [class.bad]="!l.ok">
+                @if (l.ok) {
+                  <svg width="12" height="12" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M3 8l3.5 3.5L13 5" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                } @else {
+                  <svg width="12" height="12" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M4 4l8 8M12 4l-8 8" stroke="#fff" stroke-width="2" stroke-linecap="round"/></svg>
+                }
+              </span>
+              <div>
+                <div class="breakdown-text">{{ l.texto }}</div>
+                <div class="breakdown-note" [class.bad]="!l.ok">{{ l.nota }}</div>
+              </div>
+            </div>
+          }
+        </div>
+      </section>
+    } @else {
+      <div class="card empty">Aún no has hecho ningún examen de {{ info().nombre }}.</div>
+    }
+
+    <section>
+      <div class="section-head" style="margin-bottom: 0">
+        <h2 class="section-title">Intentos anteriores</h2>
+        @if (historial().length) {
+          <button type="button" class="btn-danger" (click)="borrarHistorial()">Borrar historial de {{ info().nombre }}</button>
+        }
+      </div>
+      <div class="card list table-wrap">
+        <div class="table">
+          <div class="table-row head">
+            <div class="c-date">Fecha</div>
+            <div class="c-detail">Preguntas</div>
+            <div class="c-score">Resultado</div>
+          </div>
+          @for (h of historial(); track h.fecha) {
+            <div class="table-row">
+              <div class="c-date">{{ h.fecha | date: 'd MMM y, HH:mm' }}</div>
+              <div class="c-detail">{{ h.totalPreguntas }} preguntas</div>
+              <div class="c-score" [class.accent]="h.aciertos / h.totalPreguntas >= 0.5" [class.wrong]="h.aciertos / h.totalPreguntas < 0.5">
+                {{ h.aciertos }}/{{ h.totalPreguntas }}
+              </div>
+            </div>
+          } @empty {
+            <div class="empty">Sin intentos todavía.</div>
+          }
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
