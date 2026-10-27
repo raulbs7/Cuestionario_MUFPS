@@ -10,6 +10,8 @@ export class ExamenService {
   readonly asignatura = signal<AsignaturaId>('pedagogia');
 
   readonly preguntas = signal<Pregunta[]>([]);
+  /** Temas del examen en curso (vacío = todos). */
+  readonly temas = signal<string[]>([]);
   readonly indice = signal(0);
   readonly respuestas = signal<DetalleRespuesta[]>([]);
   /** Opción elegida en la pregunta actual (null si aún no se ha respondido). */
@@ -24,11 +26,16 @@ export class ExamenService {
   readonly respondida = computed(() => this.elegida() !== null);
   readonly esUltima = computed(() => this.indice() + 1 === this.total());
 
-  /** Toma `cantidad` preguntas aleatorias de todo el banco (temas mezclados). */
-  iniciar(asignatura: AsignaturaId, banco: Pregunta[], cantidad: number): void {
-    const n = Math.max(1, Math.min(cantidad, banco.length));
+  /**
+   * Toma `cantidad` preguntas aleatorias (temas mezclados) de los `temas` indicados,
+   * o de todo el banco si `temas` está vacío.
+   */
+  iniciar(asignatura: AsignaturaId, banco: Pregunta[], cantidad: number, temas: string[] = []): void {
+    const fuente = temas.length ? banco.filter((p) => temas.includes(p.tema)) : banco;
+    const n = Math.max(1, Math.min(cantidad, fuente.length));
     this.asignatura.set(asignatura);
-    this.preguntas.set(this.mezclar(banco).slice(0, n));
+    this.temas.set(temas);
+    this.preguntas.set(this.mezclar(fuente).slice(0, n));
     this.indice.set(0);
     this.respuestas.set([]);
     this.elegida.set(null);
@@ -61,6 +68,7 @@ export class ExamenService {
       totalPreguntas: this.total(),
       aciertos: this.puntuacion(),
       detalle: this.respuestas(),
+      ...(this.temas().length ? { temas: this.temas() } : {}),
     });
   }
 

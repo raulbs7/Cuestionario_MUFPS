@@ -84,6 +84,13 @@ h1 { font-family: 'Lora', serif; }
   font-size: 14px; font-weight: 500; cursor: pointer; color: var(--text);
 }
 .chip.active { border-color: var(--accent); background: var(--accent-bg); color: var(--accent); font-weight: 600; }
+.tema-picker { display: flex; flex-direction: column; gap: 10px; }
+.tema-hint { font-weight: 400; }
+.tema-list { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip-tema { display: inline-flex; align-items: center; gap: 8px; max-width: 100%; border-radius: 10px; text-align: left; }
+.chip-tema-name { min-width: 0; }
+.chip-count { flex-shrink: 0; font-size: 12px; font-weight: 600; color: var(--muted); background: var(--border-soft); padding: 1px 7px; border-radius: 999px; }
+.chip.active .chip-count { color: var(--accent); background: var(--surface); }
 .count-input { width: 84px; padding: 8px 10px; border-radius: 8px; border: 1.5px solid var(--border); font-size: 14px; }
 .count-note { font-size: 13px; color: var(--wrong); }
 .section-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: 14px; }

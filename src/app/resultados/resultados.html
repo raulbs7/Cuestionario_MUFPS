@@ -20,7 +20,7 @@
     @if (ultimo(); as u) {
       <div class="card summary">
         <div>
-          <div class="muted" style="font-size: 13px">Último examen · {{ u.fecha | date: 'd MMM y' }}</div>
+          <div class="muted" style="font-size: 13px">Último examen · {{ u.fecha | date: 'd MMM y' }} · {{ resumenTemas(u.temas) }}</div>
           <div class="summary-fraction">{{ u.aciertos }} / {{ u.totalPreguntas }}</div>
           <div class="muted" style="font-size: 14px">{{ porcentaje() }}% de aciertos</div>
         </div>
@@ -70,7 +70,7 @@
           @for (h of historial(); track h.fecha) {
             <div class="table-row">
               <div class="c-date">{{ h.fecha | date: 'd MMM y, HH:mm' }}</div>
-              <div class="c-detail">{{ h.totalPreguntas }} preguntas</div>
+              <div class="c-detail">{{ h.totalPreguntas }} preguntas · {{ resumenTemas(h.temas) }}</div>
               <div class="c-score" [class.accent]="h.aciertos / h.totalPreguntas >= 0.5" [class.wrong]="h.aciertos / h.totalPreguntas < 0.5">
                 {{ h.aciertos }}/{{ h.totalPreguntas }}
               </div>

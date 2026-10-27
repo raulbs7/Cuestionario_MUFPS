@@ -1,7 +1,7 @@
 import { DatePipe } from '@angular/common';
 import { Component, computed, effect, inject } from '@angular/core';
 import { RouterLink } from '@angular/router';
-import { ASIGNATURAS, AsignaturaId, LETRAS, Pregunta, infoAsignatura } from '../core/models/models';
+import { ASIGNATURAS, AsignaturaId, LETRAS, Pregunta, infoAsignatura, resumenTemas } from '../core/models/models';
 import { BancoService } from '../core/services/banco.service';
 import { ExamenService } from '../core/services/examen.service';
 import { HistorialService } from '../core/services/historial.service';
@@ -63,6 +63,10 @@ export class Resultados {
     if (confirm(`¿Borrar todo el historial de ${nombre}? Esta acción no se puede deshacer.`)) {
       this.historialService.borrar(this.asignaturaId());
     }
+  }
+
+  resumenTemas(temas?: string[]): string {
+    return resumenTemas(temas);
   }
 
   letra(i: number): string {

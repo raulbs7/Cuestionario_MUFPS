@@ -33,7 +33,7 @@
     <header>
       <div class="eyebrow">{{ info().nombre }}</div>
       <h1>Panel de repaso</h1>
-      <p>Preguntas de todos los temas, mezcladas para simular el examen real.</p>
+      <p>Repasa todos los temas mezclados para simular el examen real, o elige solo los temas que quieras practicar.</p>
     </header>
 
     @if (error()) {
@@ -66,36 +66,75 @@
         <div class="cta-text">
           <div class="cta-title">Examen de repaso — {{ cantidadEfectiva() }} preguntas</div>
           <div class="cta-desc">
-            Preguntas aleatorias de {{ info().nombre }}, de todos los temas mezclados. Corrección disponible
-            pregunta a pregunta.
+            @if (todosLosTemas()) {
+              Preguntas aleatorias de {{ info().nombre }}, de todos los temas mezclados.
+            } @else {
+              Preguntas aleatorias de {{ info().nombre }} · {{ resumenSeleccion() }}.
+            }
+            Corrección disponible pregunta a pregunta.
           </div>
         </div>
-        <button type="button" class="btn btn-lg" [disabled]="totalBanco() === 0" (click)="iniciar()">
+        <button type="button" class="btn btn-lg" [disabled]="disponibles() === 0" (click)="iniciar()">
           Iniciar examen →
         </button>
+      </div>
+
+      <div class="tema-picker" role="group" aria-label="Temas del examen">
+        <div class="count-label">
+          Temas
+          <span class="muted tema-hint">· {{ disponibles() }} preguntas disponibles</span>
+        </div>
+        <div class="tema-list">
+          <button
+            type="button"
+            class="chip"
+            [class.active]="todosLosTemas()"
+            [attr.aria-pressed]="todosLosTemas()"
+            (click)="elegirTodosLosTemas()"
+          >
+            Todos los temas
+          </button>
+          @for (t of temas(); track t.nombre) {
+            <button
+              type="button"
+              class="chip chip-tema"
+              [class.active]="temaElegido(t.nombre)"
+              [attr.aria-pressed]="temaElegido(t.nombre)"
+              [title]="t.nombre"
+              (click)="alternarTema(t.nombre)"
+            >
+              <span class="chip-tema-name">{{ t.nombre }}</span>
+              <span class="chip-count">{{ t.total }}</span>
+            </button>
+          }
+        </div>
       </div>
 
       <div class="count-picker" role="group" aria-label="Número de preguntas">
         <span class="count-label">Nº de preguntas</span>
         @for (n of opcionesRapidas; track n) {
-          <button type="button" class="chip" [class.active]="cantidad() === n" (click)="fijarCantidad(n)">
+          <button type="button" class="chip" [class.active]="!todas() && cantidad() === n" (click)="fijarCantidad(n)">
             {{ n }}
           </button>
         }
-        <button type="button" class="chip" [class.active]="esTodas()" (click)="elegirTodas()">Todas</button>
+        <button type="button" class="chip" [class.active]="todas()" (click)="elegirTodas()">Todas</button>
         <label class="muted" for="cantidad-personalizada" style="font-size: 13px">Otro:</label>
         <input
           id="cantidad-personalizada"
           class="count-input"
           type="number"
           min="1"
-          [value]="cantidad()"
+          [value]="todas() ? disponibles() : cantidad()"
           (input)="fijarCantidad($any($event.target).value)"
         />
       </div>
       @if (excede()) {
         <div class="count-note" role="status">
-          El banco solo tiene {{ totalBanco() }} preguntas: el examen usará las {{ totalBanco() }} disponibles.
+          @if (todosLosTemas()) {
+            El banco solo tiene {{ disponibles() }} preguntas: el examen usará las {{ disponibles() }} disponibles.
+          } @else {
+            Los temas elegidos solo tienen {{ disponibles() }} preguntas: el examen usará las {{ disponibles() }} disponibles.
+          }
         </div>
       }
     </div>
@@ -110,7 +149,7 @@
           <div class="row">
             <div>
               <div class="row-title">{{ item.fecha | date: 'd MMM y' }}</div>
-              <div class="row-sub">Examen · {{ item.totalPreguntas }} preguntas</div>
+              <div class="row-sub">Examen · {{ item.totalPreguntas }} preguntas · {{ resumenTemas(item.temas) }}</div>
             </div>
             <div class="score" [class.accent]="item.aciertos / item.totalPreguntas >= 0.5" [class.wrong]="item.aciertos / item.totalPreguntas < 0.5">
               {{ item.aciertos }}/{{ item.totalPreguntas }}

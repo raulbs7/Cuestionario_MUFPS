@@ -22,6 +22,8 @@ export interface IntentoGuardado {
   totalPreguntas: number;
   aciertos: number;
   detalle: DetalleRespuesta[];
+  /** Temas elegidos para el intento; ausente si se usaron todos (y en intentos antiguos). */
+  temas?: string[];
 }
 
 export interface AsignaturaInfo {
@@ -39,4 +41,14 @@ export const LETRAS = ['A', 'B', 'C', 'D'] as const;
 
 export function infoAsignatura(id: AsignaturaId): AsignaturaInfo {
   return ASIGNATURAS.find((a) => a.id === id)!;
+}
+
+/** "Tema 1.2 · Desarrollo cognitivo..." -> "Tema 1.2". */
+export function temaCorto(tema: string): string {
+  return tema.split(' · ')[0];
+}
+
+/** Texto breve con los temas de un intento, para listados. */
+export function resumenTemas(temas?: string[]): string {
+  return temas?.length ? temas.map(temaCorto).join(', ') : 'Todos los temas';
 }
