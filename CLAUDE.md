@@ -28,6 +28,10 @@ There are no tests: `angular.json` sets `skipTests: true` for every schematic, t
 - Exam state is held only in memory. If `examen` loads with no exam running (for example after a reload), it redirects to `/panel`.
 - `src/app/core/models/models.ts` defines the data types, the `ASIGNATURAS` list (id, name, accent colour) and `LETRAS`. To add a subject, extend `AsignaturaId`, add an entry to `ASIGNATURAS`, and add a matching `src/assets/data/<id>.json`.
 
+## Responsive layout
+
+All styles are global in `src/styles.css`; the responsive rules live in its "Responsive" section at the end. Below 900px the sidebar becomes a top bar, and below 640px the layout is the phone one (full-width buttons, history table turned into two-line rows, stat cards in a 3-column grid). On phones and on short landscape screens (`max-height: 500px`) the exam's "Siguiente" button is `position: sticky` at the bottom of the screen. Inputs keep a 16px font on phones so iOS doesn't zoom on focus.
+
 ## Question banks
 
 Each file in `src/assets/data/*.json` is an array of `{ id, tema, pregunta, opciones, correcta }`:
